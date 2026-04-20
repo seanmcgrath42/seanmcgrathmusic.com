@@ -1,0 +1,10 @@
+<header class="site-header">
+  <div class="container">
+    <a class="site-title" href="{{ '/' | relative_url }}">Sean McGrath Music</a>
+    <nav class="site-nav">
+      <a href="{{ '/songs/' | relative_url }}" {% if page.url contains '/songs' %}class="active"{% endif %}>Songs</a>
+      <a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
+      <a href="https://www.youtube.com/@seanmcgrathmusic" target="_blank" rel="noopener">YouTube</a>
+    </nav>
+  </div>
+</header>

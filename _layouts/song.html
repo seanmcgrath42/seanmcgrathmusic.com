@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+{% assign s = site.data.songs | where: "slug", page.slug | first %}
+{% if s == nil %}{% assign s = page %}{% endif %}
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include header.html %}
+  <main class="page-content">
+    <div class="container">
+
+      <article class="song-page">
+
+        <header class="song-header">
+          <h1>{{ s.title }}</h1>
+          <p class="song-meta">
+            <a href="{{ '/songs/' | relative_url }}#batch-{{ s.batch }}">Batch {{ s.batch }}</a>
+            &middot; Song {{ s.batch_position }}
+            {% if s.key and s.key != "" %}&middot; Key: <strong>{{ s.key }}</strong>{% endif %}
+          </p>
+        </header>
+
+        <div class="song-body">
+
+          <!-- THE STORY -->
+          <section class="song-story">
+            <h2>The Story</h2>
+            <div class="story-text">
+              {% if content and content != "" %}
+                {{ content }}
+              {% else %}
+                <p class="placeholder">Story coming soon.</p>
+              {% endif %}
+            </div>
+            {% if s.youtube_id and s.youtube_id != "" %}
+            <div class="youtube-wrap">
+              <iframe
+                src="https://www.youtube.com/embed/{{ s.youtube_id }}"
+                title="{{ s.title }} by Sean McGrath"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+              </iframe>
+            </div>
+            {% endif %}
+          </section>
+
+          <!-- FOR MUSICIANS -->
+          <section class="for-musicians">
+            <h2>For Musicians</h2>
+            <p class="section-intro">
+              All songs are released under
+              <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>
+              — record it, arrange it, adapt it. Just credit the source.
+            </p>
+
+            <div class="downloads">
+              {% if s.mp3_gdrive_id and s.mp3_gdrive_id != "" %}
+              <a class="btn" href="https://drive.google.com/uc?export=download&id={{ s.mp3_gdrive_id }}" download>
+                &#8659; Download MP3
+              </a>
+              {% endif %}
+              <a class="btn btn-outline" href="{{ '/assets/chordpro/' | relative_url }}{{ page.slug }}.pro" download>
+                &#8659; Download ChordPro
+              </a>
+              {% if site.songbook_pdf and site.songbook_pdf != "" %}
+              <a class="btn btn-outline" href="{{ '/assets/' | relative_url }}{{ site.songbook_pdf }}" download>
+                &#8659; Full Songbook PDF
+              </a>
+              {% endif %}
+            </div>
+
+            <div class="chordpro-display" id="chordpro-display">
+              <p class="loading">Loading chord chart…</p>
+            </div>
+          </section>
+
+          <!-- VERSIONS & COVERS -->
+          {% if s.covers and s.covers != "[]" and s.covers.size > 0 %}
+          <section class="covers-section">
+            <h2>Versions &amp; Covers</h2>
+            <div class="covers-grid">
+              {% for cover in s.covers %}
+              <div class="cover-item">
+                <div class="youtube-wrap">
+                  <iframe
+                    src="https://www.youtube.com/embed/{{ cover.youtube_id }}"
+                    title="{{ cover.label | default: 'Cover' }}"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                  </iframe>
+                </div>
+                {% if cover.label %}<p class="cover-label">{{ cover.label }}</p>{% endif %}
+              </div>
+              {% endfor %}
+            </div>
+          </section>
+          {% endif %}
+
+        </div><!-- .song-body -->
+      </article>
+
+      <nav class="song-nav">
+        {% assign all_songs = site.data.songs %}
+        {% assign current_index = nil %}
+        {% for song in all_songs %}
+          {% if song.slug == page.slug %}{% assign current_index = forloop.index0 %}{% endif %}
+        {% endfor %}
+        {% if current_index and current_index > 0 %}
+          {% assign prev_index = current_index | minus: 1 %}
+          {% assign prev_song = all_songs[prev_index] %}
+          <a class="song-nav-prev" href="{{ '/songs/' | relative_url }}{{ prev_song.slug | replace: '_', '-' }}/">&larr; {{ prev_song.title }}</a>
+        {% else %}
+          <span></span>
+        {% endif %}
+        {% if current_index != nil %}
+          {% assign next_index = current_index | plus: 1 %}
+          {% assign next_song = all_songs[next_index] %}
+          {% if next_song %}
+          <a class="song-nav-next" href="{{ '/songs/' | relative_url }}{{ next_song.slug | replace: '_', '-' }}/">{{ next_song.title }} &rarr;</a>
+          {% endif %}
+        {% endif %}
+      </nav>
+
+    </div>
+  </main>
+  {% include footer.html %}
+
+  <script>
+    const SLUG = "{{ page.slug }}";
+  </script>
+  <script src="{{ '/assets/js/chordpro.js' | relative_url }}"></script>
+</body>
+</html>

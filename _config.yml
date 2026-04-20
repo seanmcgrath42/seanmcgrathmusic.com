@@ -1,0 +1,28 @@
+title: Sean McGrath Music
+description: Original folk songs, shared freely under Creative Commons.
+url: "https://seanmcgrathmusic.com"
+baseurl: ""
+author: Sean McGrath
+github_username: seanmcgrath42
+youtube_handle: "@seanmcgrathmusic"
+
+collections:
+  songs:
+    output: true
+    permalink: /songs/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: songs
+    values:
+      layout: song
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

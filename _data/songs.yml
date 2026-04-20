@@ -1,0 +1,812 @@
+# Master song list — batch order is canonical.
+# Edit youtube_id, mp3_gdrive_id, and covers here; run sync.py after adding songs.
+
+- title: "Be Here Soon"
+  slug: be_here_soon
+  batch: 1
+  batch_position: 1
+  youtube_id: "Cyh2BKPQ57Y"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Black Dog"
+  slug: black_dog
+  batch: 1
+  batch_position: 2
+  youtube_id: "vEkVmQolgmg"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Colours"
+  slug: colours
+  batch: 1
+  batch_position: 3
+  youtube_id: "IePcz5wR8wk"
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Damascus"
+  slug: damascus
+  batch: 1
+  batch_position: 4
+  youtube_id: "ZQYJMxpgRb4"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Darker Shade Of You"
+  slug: darker_shade_of_you
+  batch: 1
+  batch_position: 5
+  youtube_id: "qofZGi2rYN0"
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Dream A Little Dream With Me"
+  slug: dream_a_little_dream_with_me
+  batch: 1
+  batch_position: 6
+  youtube_id: "SeZ4s-uhckI"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "High On Life"
+  slug: high_on_life
+  batch: 1
+  batch_position: 7
+  youtube_id: "kYiYAgDCWZs"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "I Feel It All"
+  slug: i_feel_it_all
+  batch: 1
+  batch_position: 8
+  youtube_id: "r6dEWPDq-Hg"
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "I Will do the Same"
+  slug: i_will_do_the_same
+  batch: 1
+  batch_position: 9
+  youtube_id: "4hAX71y-2qA"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Just Like All The Rest"
+  slug: just_like_all_the_rest
+  batch: 1
+  batch_position: 10
+  youtube_id: "qsX3V-xac10"
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Away From The War"
+  slug: away_from_the_war
+  batch: 2
+  batch_position: 1
+  youtube_id: "5u6-dlZn4VQ"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Me And My Heart"
+  slug: me_and_my_heart
+  batch: 2
+  batch_position: 2
+  youtube_id: "AxF3dMrln_8"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Much To My Surprise"
+  slug: much_to_my_surprise
+  batch: 2
+  batch_position: 3
+  youtube_id: "1xgUF3LxGcg"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "My Knot of Sorrow"
+  slug: my_knot_of_sorrow
+  batch: 2
+  batch_position: 4
+  youtube_id: "TvIaCivE8i4"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "My Only Son"
+  slug: my_only_son
+  batch: 2
+  batch_position: 5
+  youtube_id: "Vm3NDJoXRyk"
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "No Need To Hide"
+  slug: no_need_to_hide
+  batch: 2
+  batch_position: 6
+  youtube_id: "gDVXVI_2pT8"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Nothing Much Left For Us To Do"
+  slug: nothing_much_left_for_us_to_do
+  batch: 2
+  batch_position: 7
+  youtube_id: "ARSyddhd_v4"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Oh Happy Days"
+  slug: oh_happy_days
+  batch: 2
+  batch_position: 8
+  youtube_id: "Hsw_C0vQRhU"
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Please Come Home"
+  slug: please_come_home
+  batch: 2
+  batch_position: 9
+  youtube_id: "6Xnn5okBkZA"
+  key: "C"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Second Time Around"
+  slug: second_time_around
+  batch: 2
+  batch_position: 10
+  youtube_id: "_usj14eld8c"
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Six White Horses"
+  slug: six_white_horses
+  batch: 3
+  batch_position: 1
+  youtube_id: "roTNMlWg0Uc"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "So Much Faster Now"
+  slug: so_much_faster_now
+  batch: 3
+  batch_position: 2
+  youtube_id: "2zelngqL16A"
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Some Trick I Need To Know"
+  slug: some_trick_i_need_to_know
+  batch: 3
+  batch_position: 3
+  youtube_id: "soLzcuoWyPo"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Spare the Tonic and Pour the Gin"
+  slug: spare_the_tonic_and_pour_the_gin
+  batch: 3
+  batch_position: 4
+  youtube_id: "QTxeMLWa7Ek"
+  key: "Dm"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Tea for Two"
+  slug: tea_for_two
+  batch: 3
+  batch_position: 5
+  youtube_id: "TKSEbNQABGg"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Tears of Stone"
+  slug: tears_of_stone
+  batch: 3
+  batch_position: 6
+  youtube_id: "b4_ni3HxKdM"
+  key: "GMixo"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "The Only Way Out Is Through"
+  slug: the_only_way_out_is_through
+  batch: 3
+  batch_position: 7
+  youtube_id: "ONY6a23Dh-g"
+  key: "E"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Too Little Sanity Too Bad"
+  slug: too_little_sanity_too_bad
+  batch: 3
+  batch_position: 8
+  youtube_id: "GR0up0sEHWc"
+  key: "A"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Trouble From You"
+  slug: trouble_from_you
+  batch: 3
+  batch_position: 9
+  youtube_id: "wVRtjb02uGM"
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Up In My Own Head"
+  slug: up_in_my_own_head
+  batch: 3
+  batch_position: 10
+  youtube_id: "rIhE5MLd7N0"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "A Boat Load Of Lies"
+  slug: a_boat_load_of_lies
+  batch: 4
+  batch_position: 1
+  youtube_id: "5F16zF8_nrI"
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "A Little Place I Know"
+  slug: a_little_place_i_know
+  batch: 4
+  batch_position: 2
+  youtube_id: "4b16eLZnvU0"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "All My Crazy Dreams"
+  slug: all_my_crazy_dreams
+  batch: 4
+  batch_position: 3
+  youtube_id: "KIdjnMrVFyY"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "And So Are You"
+  slug: and_so_are_you
+  batch: 4
+  batch_position: 4
+  youtube_id: "VtkobmvU4JA"
+  key: "Em"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Count To Ten"
+  slug: count_to_ten
+  batch: 4
+  batch_position: 5
+  youtube_id: "S5SzBk3zp8U"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Damn You Delilah"
+  slug: damn_you_delilah
+  batch: 4
+  batch_position: 6
+  youtube_id: "b3SYzrOaqUE"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Get Up Off Of Your Knees"
+  slug: get_up_off_of_your_knees
+  batch: 4
+  batch_position: 7
+  youtube_id: "lAteQIRkN2Q"
+  key: "C"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Sunrise Rising Slow"
+  slug: sunrise_rising_slow
+  batch: 4
+  batch_position: 8
+  youtube_id: "2ROedvDFIxU"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Why Won't You Talk To Me?"
+  slug: why_wont_you_talk_to_me
+  batch: 4
+  batch_position: 9
+  youtube_id: "vWR4vrDSLpU"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Will You Dance With Me"
+  slug: will_you_dance_with_me
+  batch: 4
+  batch_position: 10
+  youtube_id: "r4EU_UpFeBY"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Aphrodite Baby"
+  slug: aphrodite_baby
+  batch: 5
+  batch_position: 1
+  youtube_id: "OCImhYArm70"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "I Think of You"
+  slug: i_think_of_you
+  batch: 5
+  batch_position: 2
+  youtube_id: "5VspDKtxmCM"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "I'll Meet You Down Below"
+  slug: ill_meet_you_down_below
+  batch: 5
+  batch_position: 3
+  youtube_id: "-DfKgdhfj9U"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "It's Fifty In The Shade"
+  slug: its_fifty_in_the_shade
+  batch: 5
+  batch_position: 4
+  youtube_id: "IFakVkMbSko"
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Make It So"
+  slug: make_it_so
+  batch: 5
+  batch_position: 5
+  youtube_id: "CKjg_4nG3Nk"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "My Nemesis And Me"
+  slug: my_nemesis_and_me
+  batch: 5
+  batch_position: 6
+  youtube_id: "S-I3B3EOpFU"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "My Piranha Blue"
+  slug: my_piranha_blue
+  batch: 5
+  batch_position: 7
+  youtube_id: "kPXvYWuhac8"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "One Good Ear"
+  slug: one_good_ear
+  batch: 5
+  batch_position: 8
+  youtube_id: "x17zS6uFMlI"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "One Royal Flush Before I Die"
+  slug: one_royal_flush_before_i_die
+  batch: 5
+  batch_position: 9
+  youtube_id: "bvXmoCsP4Q8"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Rock Paper Scissors"
+  slug: rock_paper_scissors
+  batch: 5
+  batch_position: 10
+  youtube_id: "iacDWtSyy-E"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "All Storms Must Die"
+  slug: all_storms_must_die
+  batch: 6
+  batch_position: 1
+  youtube_id: "b5SBG1Fl6po"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Can You Hear Me Thinking of You"
+  slug: can_you_hear_me_thinking_of_you
+  batch: 6
+  batch_position: 2
+  youtube_id: "GbaCB6ANjak"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Sinner Full of Sins"
+  slug: sinner_full_of_sins
+  batch: 6
+  batch_position: 3
+  youtube_id: "mErfdWyUcG4"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "So It Goes"
+  slug: so_it_goes
+  batch: 6
+  batch_position: 4
+  youtube_id: "xNY58CHijxs"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "The Skibbereen Breeders"
+  slug: the_skibbereen_breeders
+  batch: 6
+  batch_position: 5
+  youtube_id: "gKLuc4K8HRw"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "The Things You Want To Hear"
+  slug: the_things_you_want_to_hear
+  batch: 6
+  batch_position: 6
+  youtube_id: "t-KAWY23T_Y"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "The Unanswered Question"
+  slug: the_unanswered_question
+  batch: 6
+  batch_position: 7
+  youtube_id: "P94KjybKdgU"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Thoughts Turn To Love"
+  slug: thoughts_turn_to_love
+  batch: 6
+  batch_position: 8
+  youtube_id: "2hXHoRZbD0E"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Too Far Too Late"
+  slug: too_far_too_late
+  batch: 6
+  batch_position: 9
+  youtube_id: "lw6IGXsYbPw"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Woe Is Me"
+  slug: woe_is_me
+  batch: 6
+  batch_position: 10
+  youtube_id: "cqceKMSZacE"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Ain't No Rush On Me"
+  slug: aint_no_rush_on_me
+  batch: 7
+  batch_position: 1
+  youtube_id: "AhzmQkbnxQ8"
+  key: "C"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Cutting Loose Again"
+  slug: cutting_loose_again
+  batch: 7
+  batch_position: 2
+  youtube_id: "HKW_G2uCTEs"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Down and Out and Blue"
+  slug: down_and_out_and_blue
+  batch: 7
+  batch_position: 3
+  youtube_id: "QP07FGBFkv8"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Face Into This Storm With You"
+  slug: face_into_this_storm_with_you
+  batch: 7
+  batch_position: 4
+  youtube_id: "RfbpA2as8MU"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Feet To The Fire"
+  slug: feet_to_the_fire
+  batch: 7
+  batch_position: 5
+  youtube_id: "LLM1wMkal3Y"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "How Humans Are"
+  slug: how_humans_are
+  batch: 7
+  batch_position: 6
+  youtube_id: "FIn_eyDf7pM"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Just Say Hi"
+  slug: just_say_hi
+  batch: 7
+  batch_position: 7
+  youtube_id: "HA9K3Kba-6c"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Never Look Back"
+  slug: never_look_back
+  batch: 7
+  batch_position: 8
+  youtube_id: "Xv3-lUF_2uo"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "So Many Hours"
+  slug: so_many_hours
+  batch: 7
+  batch_position: 9
+  youtube_id: "ONRbiOKjcK0"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Two Fireflies Burning Bright"
+  slug: two_fireflies_burning_bright
+  batch: 7
+  batch_position: 10
+  youtube_id: "T6kxOZzMw_c"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "And There You Are"
+  slug: and_there_you_are
+  batch: 8
+  batch_position: 1
+  youtube_id: "60GSMAoOCWg"
+  key: "ADor"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Five Thousand Miles From Home"
+  slug: five_thousand_miles_from_home
+  batch: 8
+  batch_position: 2
+  youtube_id: "otvD7CGQ6GU"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "I Searched For Wine"
+  slug: i_searched_for_wine
+  batch: 8
+  batch_position: 3
+  youtube_id: "p3T42cBYduo"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "I Will Arise And I Will Go"
+  slug: i_will_arise_and_i_will_go
+  batch: 8
+  batch_position: 4
+  youtube_id: "wRiUh0Sp2MY"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "If I Was Me"
+  slug: if_i_was_me
+  batch: 8
+  batch_position: 5
+  youtube_id: "KZ6tYW8VN04"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Makes Me Think of You"
+  slug: makes_me_think_of_you
+  batch: 8
+  batch_position: 6
+  youtube_id: "2x0mavqvN0I"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Minding My Own Business All Day Long"
+  slug: minding_my_own_business_all_day_long
+  batch: 8
+  batch_position: 7
+  youtube_id: "0gfM5fYEPaM"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Proud To Be You"
+  slug: proud_to_be_you
+  batch: 8
+  batch_position: 8
+  youtube_id: "ztPjIRdi18g"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Trifling Little Detail"
+  slug: trifling_little_detail
+  batch: 8
+  batch_position: 9
+  youtube_id: "ZGVbxXFvdhQ"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "White Clouds"
+  slug: white_clouds
+  batch: 8
+  batch_position: 10
+  youtube_id: "LkVZ9EIY6Z4"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Avarice my Darling"
+  slug: avarice_my_darling
+  batch: 9
+  batch_position: 1
+  youtube_id: "IoJgUuXZPGw"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Hazy on a Sunday Afternoon"
+  slug: hazy_on_a_sunday_afternoon
+  batch: 9
+  batch_position: 2
+  youtube_id: "aJkQr2vkLSk"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "If I Go"
+  slug: if_i_go
+  batch: 9
+  batch_position: 3
+  youtube_id: "fMrckYMpRWc"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "I'll Cry For You"
+  slug: ill_cry_for_you
+  batch: 9
+  batch_position: 4
+  youtube_id: "mf6hcLv0dc4"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Just Above The Sky"
+  slug: just_above_the_sky
+  batch: 9
+  batch_position: 5
+  youtube_id: "Hy6aW4dWzp0"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Old Oak Tree"
+  slug: old_oak_tree
+  batch: 9
+  batch_position: 6
+  youtube_id: "17j_1REmvg0"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Presents"
+  slug: presents
+  batch: 9
+  batch_position: 7
+  youtube_id: "ffHlf3zsVuQ"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Rise Again"
+  slug: rise_again
+  batch: 9
+  batch_position: 8
+  youtube_id: "ZTsBR3JLK6g"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Remember To Forget"
+  slug: remember_to_forget
+  batch: 9
+  batch_position: 9
+  youtube_id: "IK-KsccBvlI"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "The Best Way to Love"
+  slug: the_best_way_to_love
+  batch: 9
+  batch_position: 10
+  youtube_id: "WD7Jb4tJn6E"
+  key: ""
+  mp3_gdrive_id: ""
+  covers: []

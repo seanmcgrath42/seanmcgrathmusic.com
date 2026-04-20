@@ -1,0 +1,39 @@
+---
+layout: default
+title: Home
+---
+
+<div class="home-intro">
+  <h1>Sean McGrath Music</h1>
+  <p class="tagline">Original folk songs, written in Ireland, shared freely with the world.</p>
+  <div class="intro-body">
+    <p>
+      This is a catalogue of original songs — ninety of them across nine batches — written and recorded by Sean McGrath.
+      None of this is for sale. All of it is <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY</a>:
+      record it, arrange it, perform it, share it. Just say where it came from.
+    </p>
+    <p>
+      Each song has its story, a YouTube recording, and everything a musician needs to make their own version —
+      lyrics, chords, ChordPro file, and MP3.
+    </p>
+  </div>
+  <div class="home-cta">
+    <a class="btn" href="{{ '/songs/' | relative_url }}">Browse all songs</a>
+    <a class="btn btn-outline" href="{{ '/about/' | relative_url }}">About</a>
+  </div>
+</div>
+
+<section>
+  <h2 style="font-family: var(--font-sans); font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-bottom: 1rem;">Most Recent — Batch 9</h2>
+  <ul class="song-list">
+    {% assign batch9 = site.data.songs | where: "batch", 9 %}
+    {% for song in batch9 %}
+    <li>
+      <a href="{{ '/songs/' | relative_url }}{{ song.slug | replace: '_', '-' }}/">
+        <span>{{ song.title }}</span>
+        {% if song.key and song.key != "" %}<span class="song-key">{{ song.key }}</span>{% endif %}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
