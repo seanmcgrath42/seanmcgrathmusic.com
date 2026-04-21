@@ -546,3 +546,62 @@ img { max-width: 100%; display: block; }
 
   .chordpro-display { padding: 1rem; }
 }
+
+/* Print */
+.print-btn {
+  display: inline-block;
+  margin-bottom: 1.25rem;
+  padding: 0.35rem 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  background: var(--bg);
+  color: var(--text-muted);
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+.print-btn:hover {
+  border-color: var(--text-muted);
+  color: var(--text);
+}
+
+@media print {
+  /* Hide everything except the chord chart */
+  .site-header,
+  .site-footer,
+  .song-nav,
+  .song-story,
+  .covers-section,
+  .section-intro,
+  .downloads,
+  .print-btn,
+  .for-musicians > h2 { display: none !important; }
+
+  /* Remove box styling from the chart */
+  .chordpro-display {
+    border: none;
+    padding: 0;
+    background: none;
+    overflow: visible;
+  }
+
+  /* Clean page */
+  body { background: #fff; color: #000; }
+  .page-content { padding: 0; }
+  .container { padding: 0; max-width: 100%; }
+
+  /* Keep chords legible in black */
+  .chord { color: #000; font-weight: bold; }
+  .cp-title { font-size: 1.1rem; }
+  .cp-byline { color: #555; }
+  .cp-comment { color: #555; }
+  .section-label { color: #555; }
+
+  /* Chorus bar in grey for print */
+  .chorus { border-left-color: #999; }
+
+  /* Avoid breaking verses across pages */
+  .verse { break-inside: avoid; }
+  .chorus { break-inside: avoid; }
+}
