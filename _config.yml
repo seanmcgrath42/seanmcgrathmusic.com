@@ -22,6 +22,8 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
 
+songbook_pdf: songbook.pdf
+
 exclude:
   - Gemfile
   - Gemfile.lock

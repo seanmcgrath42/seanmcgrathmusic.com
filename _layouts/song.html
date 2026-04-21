@@ -64,11 +64,9 @@
               <a class="btn btn-outline" href="{{ '/assets/chordpro/' | relative_url }}{{ page.slug }}.pro" download>
                 &#8659; Download ChordPro
               </a>
-              {% if site.songbook_pdf and site.songbook_pdf != "" %}
               <a class="btn btn-outline" href="{{ '/assets/' | relative_url }}{{ site.songbook_pdf }}" download>
                 &#8659; Full Songbook PDF
               </a>
-              {% endif %}
             </div>
 
             <button class="print-btn" onclick="window.print()">&#128438; Print chord chart</button>
