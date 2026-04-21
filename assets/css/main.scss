@@ -125,6 +125,38 @@ img { max-width: 100%; display: block; }
   margin-bottom: 2.5rem;
 }
 
+.home-intro-layout {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+  margin-bottom: 0;
+}
+
+.home-intro-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.home-intro-image {
+  flex: 0 0 260px;
+}
+
+.home-intro-image img {
+  width: 100%;
+  border-radius: 4px;
+  display: block;
+}
+
+@media (max-width: 640px) {
+  .home-intro-layout {
+    flex-direction: column-reverse;
+  }
+  .home-intro-image {
+    flex: none;
+    width: 100%;
+  }
+}
+
 .home-intro h1 {
   font-size: 2.2rem;
   margin-bottom: 1rem;
