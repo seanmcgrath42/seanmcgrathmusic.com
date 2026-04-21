@@ -153,6 +153,20 @@ img { max-width: 100%; display: block; }
   flex-wrap: wrap;
 }
 
+.home-social {
+  margin-top: 1.25rem;
+  display: flex;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.home-social a {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  text-decoration: none;
+}
+.home-social a:hover { color: var(--text); }
+
 /* Buttons */
 .btn {
   display: inline-block;
