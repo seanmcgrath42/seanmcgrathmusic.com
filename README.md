@@ -110,6 +110,41 @@ This reads the master ChordPro directory at `../smg_songbook/chordpro/`, updates
 
 ---
 
+## Pages You Can Edit
+
+These are the content files you'll touch most often. All use Markdown.
+
+| File | What it controls |
+|---|---|
+| `index.html` | Home page — intro text, tagline, CTA buttons, social links |
+| `about/index.html` | About / bio page |
+| `_songs/[slug].md` | Story text for an individual song (body below the `---`) |
+
+### Home page (`index.html`)
+
+The intro paragraph, tagline, and body text are plain HTML/Markdown inside the file. Edit them directly. The CTA buttons and social links are also in this file if you need to add or reorder them.
+
+### Bio page (`about/index.html`)
+
+Currently a placeholder. Write your bio here in plain Markdown/HTML. There is no separate data file for this — just edit the file directly.
+
+### Song stories (`_songs/[slug].md`)
+
+One file per song. The slug matches the song title with spaces replaced by underscores, e.g. `_songs/woe_is_me.md`. Write the story in Markdown below the front matter:
+
+```markdown
+---
+layout: song
+slug: woe_is_me
+---
+
+This song came from a conversation I had in Galway in 2019...
+```
+
+The "The Story" heading on the song page only appears when there is content here — empty files show nothing.
+
+---
+
 ## File Structure
 
 | Path | Purpose |
