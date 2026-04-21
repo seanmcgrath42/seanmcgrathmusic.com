@@ -29,18 +29,3 @@ title: Home
     <a href="https://www.youtube.com/@seanmcgrathmusic" target="_blank" rel="noopener"><i class="fa-brands fa-youtube"></i> YouTube</a>
   </div>
 </div>
-
-<section>
-  <h2 style="font-family: var(--font-sans); font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-bottom: 1rem;">Most Recent — Batch 9</h2>
-  <ul class="song-list">
-    {% assign batch9 = site.data.songs | where: "batch", 9 %}
-    {% for song in batch9 %}
-    <li>
-      <a href="{{ '/songs/' | relative_url }}{{ song.slug | replace: '_', '-' }}/">
-        <span>{{ song.title }}</span>
-        {% if song.key and song.key != "" %}<span class="song-key">{{ song.key }}</span>{% endif %}
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
-</section>
