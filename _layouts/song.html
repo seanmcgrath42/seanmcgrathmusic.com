@@ -21,6 +21,21 @@
           </p>
         </header>
 
+        <!-- ORIGINAL RECORDING -->
+        {% if s.youtube_id and s.youtube_id != "" %}
+        <div class="song-recording">
+          <div class="youtube-wrap">
+            <iframe
+              src="https://www.youtube.com/embed/{{ s.youtube_id }}"
+              title="{{ s.title }} by Sean McGrath"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+            </iframe>
+          </div>
+        </div>
+        {% endif %}
+
         <div class="song-body">
 
           <!-- FOR MUSICIANS -->
@@ -53,10 +68,10 @@
             </div>
           </section>
 
-          <!-- VERSIONS & COVERS -->
+          <!-- OTHER VERSIONS & COVERS -->
           {% if s.covers and s.covers != "[]" and s.covers.size > 0 %}
           <section class="covers-section">
-            <h2>Versions &amp; Covers</h2>
+            <h2>Other Versions &amp; Covers</h2>
             <div class="covers-grid">
               {% for cover in s.covers %}
               <div class="cover-item">
@@ -84,32 +99,7 @@
             <div class="story-text">
               {{ content }}
             </div>
-            {% if s.youtube_id and s.youtube_id != "" %}
-            <div class="youtube-wrap">
-              <iframe
-                src="https://www.youtube.com/embed/{{ s.youtube_id }}"
-                title="{{ s.title }} by Sean McGrath"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen>
-              </iframe>
-            </div>
-            {% endif %}
           </section>
-          {% else %}
-            {% if s.youtube_id and s.youtube_id != "" %}
-            <section class="song-story">
-              <div class="youtube-wrap">
-                <iframe
-                  src="https://www.youtube.com/embed/{{ s.youtube_id }}"
-                  title="{{ s.title }} by Sean McGrath"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowfullscreen>
-                </iframe>
-              </div>
-            </section>
-            {% endif %}
           {% endif %}
 
         </div><!-- .song-body -->
