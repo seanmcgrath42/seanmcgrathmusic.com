@@ -24,8 +24,7 @@ title: Songs
         {% for song in batch_songs %}
         <li>
           <a href="{{ '/songs/' | relative_url }}{{ song.slug | replace: '_', '-' }}/">
-            <span>{{ song.title }}</span>
-            {% if song.key and song.key != "" %}<span class="song-key">{{ song.key }}</span>{% endif %}
+            {{ song.title }}
           </a>
         </li>
         {% endfor %}
