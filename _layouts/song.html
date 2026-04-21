@@ -48,11 +48,9 @@
             </p>
 
             <div class="downloads">
-              {% if s.mp3_gdrive_id and s.mp3_gdrive_id != "" %}
-              <a class="btn" href="https://drive.google.com/uc?export=download&id={{ s.mp3_gdrive_id }}" download>
-                &#8659; Download MP3
+              <a class="btn btn-outline" href="{{ '/assets/mp3/' | relative_url }}{{ page.slug }}.mp3" download>
+                &#8659; MP3
               </a>
-              {% endif %}
               <a class="btn btn-outline" href="{{ '/assets/chordpro/' | relative_url }}{{ page.slug }}.pro" download>
                 &#8659; ChordPro
               </a>
