@@ -77,7 +77,8 @@
           {% endif %}
 
           <!-- THE STORY -->
-          {% if content and content != "" %}
+          {% assign story_text = content | strip %}
+          {% if story_text != "" %}
           <section class="song-story">
             <h2>The Story</h2>
             <div class="story-text">
