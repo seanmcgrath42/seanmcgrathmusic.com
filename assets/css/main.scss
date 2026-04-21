@@ -479,6 +479,20 @@ img { max-width: 100%; display: block; }
   color: var(--text-muted);
 }
 
+.inline-line {
+  display: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.95rem;
+  line-height: 1.8;
+}
+
+.chord-inline {
+  color: var(--chord-color);
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 0.82rem;
+}
+
 /* Covers section */
 .covers-grid {
   display: grid;
@@ -591,8 +605,10 @@ img { max-width: 100%; display: block; }
   .page-content { padding: 0; }
   .container { padding: 0; max-width: 100%; }
 
-  /* Keep chords legible in black */
-  .chord { color: #000; font-weight: bold; }
+  /* Swap to inline chord layout for compact print */
+  .chord-line { display: none !important; }
+  .inline-line { display: block !important; }
+  .chord-inline { color: #000; font-weight: bold; }
   .cp-title { font-size: 1.1rem; }
   .cp-byline { color: #555; }
   .cp-comment { color: #555; }

@@ -37,6 +37,7 @@
       parts.push({ chord: m[1], lyric: m[2] });
     }
 
+    // Screen: chords stacked above lyrics
     var html = '<div class="chord-line">';
     for (var i = 0; i < parts.length; i++) {
       var p = parts[i];
@@ -48,6 +49,18 @@
       html += '</span>';
     }
     html += '</div>';
+
+    // Print: chords inline with lyrics as [Chord]
+    var inline = '';
+    var re2 = /\[([^\]]+)\]([^\[]*)/g;
+    if (firstBracket > 0) {
+      inline += escHtml(line.substring(0, firstBracket));
+    }
+    while ((m = re2.exec(line)) !== null) {
+      inline += '<span class="chord-inline">[' + escHtml(m[1]) + ']</span>' + escHtml(m[2]);
+    }
+    html += '<div class="inline-line">' + inline + '</div>';
+
     return html;
   }
 
