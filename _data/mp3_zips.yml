@@ -1,0 +1,25 @@
+# Google Drive file IDs for MP3 zip downloads
+# Set each ID to the Drive file ID (from the share URL)
+# Leave empty to hide the download link
+
+all_gdrive_id: ""
+
+batches:
+  - batch: 1
+    gdrive_id: ""
+  - batch: 2
+    gdrive_id: ""
+  - batch: 3
+    gdrive_id: ""
+  - batch: 4
+    gdrive_id: ""
+  - batch: 5
+    gdrive_id: ""
+  - batch: 6
+    gdrive_id: ""
+  - batch: 7
+    gdrive_id: ""
+  - batch: 8
+    gdrive_id: ""
+  - batch: 9
+    gdrive_id: ""
