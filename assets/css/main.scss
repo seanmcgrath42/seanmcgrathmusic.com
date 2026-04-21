@@ -24,7 +24,12 @@
 html { font-size: 17px; }
 
 body {
-  background: var(--bg);
+  background-color: var(--bg);
+  background-image: url('/assets/images/paper-texture.jpg');
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   color: var(--text);
   font-family: var(--font-sans);
   line-height: 1.7;
