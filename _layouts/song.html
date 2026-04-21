@@ -23,29 +23,6 @@
 
         <div class="song-body">
 
-          <!-- THE STORY -->
-          <section class="song-story">
-            <h2>The Story</h2>
-            <div class="story-text">
-              {% if content and content != "" %}
-                {{ content }}
-              {% else %}
-                <p class="placeholder">Story coming soon.</p>
-              {% endif %}
-            </div>
-            {% if s.youtube_id and s.youtube_id != "" %}
-            <div class="youtube-wrap">
-              <iframe
-                src="https://www.youtube.com/embed/{{ s.youtube_id }}"
-                title="{{ s.title }} by Sean McGrath"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen>
-              </iframe>
-            </div>
-            {% endif %}
-          </section>
-
           <!-- FOR MUSICIANS -->
           <section class="for-musicians">
             <h2>For Musicians</h2>
@@ -97,6 +74,41 @@
               {% endfor %}
             </div>
           </section>
+          {% endif %}
+
+          <!-- THE STORY -->
+          {% if content and content != "" %}
+          <section class="song-story">
+            <h2>The Story</h2>
+            <div class="story-text">
+              {{ content }}
+            </div>
+            {% if s.youtube_id and s.youtube_id != "" %}
+            <div class="youtube-wrap">
+              <iframe
+                src="https://www.youtube.com/embed/{{ s.youtube_id }}"
+                title="{{ s.title }} by Sean McGrath"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen>
+              </iframe>
+            </div>
+            {% endif %}
+          </section>
+          {% else %}
+            {% if s.youtube_id and s.youtube_id != "" %}
+            <section class="song-story">
+              <div class="youtube-wrap">
+                <iframe
+                  src="https://www.youtube.com/embed/{{ s.youtube_id }}"
+                  title="{{ s.title }} by Sean McGrath"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen>
+                </iframe>
+              </div>
+            </section>
+            {% endif %}
           {% endif %}
 
         </div><!-- .song-body -->
