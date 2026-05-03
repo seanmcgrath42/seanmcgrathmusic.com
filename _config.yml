@@ -22,7 +22,7 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
 
-songbook_pdf: songbook.pdf
+songbook_pdf: Songs1_to_90.pdf
 
 exclude:
   - Gemfile
