@@ -1,0 +1,57 @@
+---
+layout: default
+title: MP3 Downloads
+---
+
+<div class="catalog-header">
+  <h1>MP3 Downloads</h1>
+  <p class="section-intro">All songs are released under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> — download, share, and build on them freely. Just credit the source.</p>
+</div>
+
+{% assign zips = site.data.mp3_zips %}
+
+<section class="mp3-section">
+  <h2 class="batch-heading">Full Collection</h2>
+  <div class="downloads">
+    {% if zips.all_gdrive_id and zips.all_gdrive_id != "" %}
+    <a class="btn" href="https://drive.google.com/uc?export=download&id={{ zips.all_gdrive_id }}" download>&#8659; All 90 Songs (ZIP)</a>
+    {% endif %}
+  </div>
+</section>
+
+<section class="mp3-section">
+  <h2 class="batch-heading">By Batch</h2>
+  <div class="downloads">
+    {% for b in zips.batches %}
+    {% if b.gdrive_id and b.gdrive_id != "" %}
+    <a class="btn btn-outline" href="https://drive.google.com/uc?export=download&id={{ b.gdrive_id }}" download>&#8659; Batch {{ b.batch }} (ZIP)</a>
+    {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="mp3-section">
+  <h2 class="batch-heading">Individual Songs</h2>
+  <p class="section-intro">Individual MP3 downloads are also available on each song page.</p>
+  {% assign sorted = site.data.songs | sort: "batch_position" | sort: "batch" %}
+  {% for batch_num in (1..9) %}
+    {% assign batch_songs = sorted | where: "batch", batch_num %}
+    {% if batch_songs.size > 0 %}
+    <div class="batch-group">
+      <p class="batch-heading">Batch {{ batch_num }}</p>
+      <ul class="song-list">
+        {% for song in batch_songs %}
+        {% if song.mp3_gdrive_id and song.mp3_gdrive_id != "" %}
+        <li>
+          <a href="https://drive.google.com/uc?export=download&id={{ song.mp3_gdrive_id }}" download>
+            <span>{{ song.title }}</span>
+            <span class="song-key">&#8659; MP3</span>
+          </a>
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  {% endfor %}
+</section>

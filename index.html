@@ -31,27 +31,9 @@ title: Home
     <a class="btn" href="{{ '/songs/' | relative_url }}">Browse all songs</a>
     <a class="btn btn-outline" href="{{ '/assets/' | relative_url }}{{ site.songbook_pdf }}" download="songs1_to_90.pdf">&#8659; Full Songbook (PDF)</a>
     <a class="btn btn-outline" href="{{ '/assets/songs1_to_90.pro' | relative_url }}" download="songs1_to_90.pro">&#8659; Full Songbook (ChordPro)</a>
+    <a class="btn btn-outline" href="{{ '/mp3s/' | relative_url }}">MP3 Downloads</a>
     <a class="btn btn-outline" href="{{ '/about/' | relative_url }}">About</a>
   </div>
-  {% assign zips = site.data.mp3_zips %}
-  {% assign any_zip = false %}
-  {% if zips.all_gdrive_id and zips.all_gdrive_id != "" %}{% assign any_zip = true %}{% endif %}
-  {% for b in zips.batches %}{% if b.gdrive_id and b.gdrive_id != "" %}{% assign any_zip = true %}{% endif %}{% endfor %}
-  {% if any_zip %}
-  <div class="home-mp3s">
-    <p class="home-mp3s-label">Download MP3s</p>
-    <div class="home-mp3s-links">
-      {% if zips.all_gdrive_id and zips.all_gdrive_id != "" %}
-      <a class="btn btn-outline" href="https://drive.google.com/uc?export=download&id={{ zips.all_gdrive_id }}" download>&#8659; All 90 Songs (ZIP)</a>
-      {% endif %}
-      {% for b in zips.batches %}
-      {% if b.gdrive_id and b.gdrive_id != "" %}
-      <a class="btn btn-outline" href="https://drive.google.com/uc?export=download&id={{ b.gdrive_id }}" download>&#8659; Batch {{ b.batch }} (ZIP)</a>
-      {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-  {% endif %}
 
   <div class="home-social">
     <a href="https://www.facebook.com/SeanMcGrathMusic" target="_blank" rel="noopener"><i class="fa-brands fa-facebook"></i> Facebook</a>
