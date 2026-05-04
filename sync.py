@@ -12,6 +12,7 @@ What it does:
   3. Rewrites _data/songs.yml — preserving youtube_id, mp3_gdrive_id, and covers
   4. Copies all .pro files to assets/chordpro/
   5. Creates _songs/[slug].md stubs for any NEW songs (never overwrites existing ones)
+  6. Regenerates assets/songs1_to_90.pro — all songs in alphabetical order
 
 What it never touches:
   - The body of any _songs/*.md file (that's where you write the story)
@@ -21,10 +22,11 @@ What it never touches:
 import os, re, shutil, sys
 from pathlib import Path
 
-MASTER       = Path("../smg_songbook/chordpro")
+MASTER        = Path("../smg_songbook/chordpro")
 SITE_CHORDPRO = Path("assets/chordpro")
-SONGS_DATA   = Path("_data/songs.yml")
-SONGS_DIR    = Path("_songs")
+SONGS_DATA    = Path("_data/songs.yml")
+SONGS_DIR     = Path("_songs")
+COMBINED_PRO  = Path("assets/songs1_to_90.pro")
 
 
 # ---------------------------------------------------------------------------
@@ -193,6 +195,16 @@ def main() -> None:
         print(f"  _songs/          — {stubs_created} new stub(s): {', '.join(new_songs)}")
     else:
         print(f"  _songs/          — no new songs.")
+
+    # --- Regenerate combined ChordPro songbook (alphabetical order) ----------
+    alpha_songs = sorted(updated, key=lambda s: s["title"].lower())
+    parts = []
+    for song in alpha_songs:
+        pro_path = SITE_CHORDPRO / f"{song['slug']}.pro"
+        if pro_path.exists():
+            parts.append(pro_path.read_text(encoding="utf-8").rstrip())
+    COMBINED_PRO.write_text("{new_song}\n".join(parts), encoding="utf-8")
+    print(f"  assets/songs1_to_90.pro — regenerated ({len(parts)} songs, alphabetical).")
 
     print("Sync complete.")
 
