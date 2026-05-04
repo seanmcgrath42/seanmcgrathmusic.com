@@ -1,4 +1,6 @@
 {title:Hazy on a Sunday Afternoon}
+{key: Cm}
+{url:https://www.youtube.com/watch?v=aJkQr2vkLSk}
 {comment:Capo 3 Am->Cm}
 [Am]Woken up by the noon day sun
 [Dm]I can't yet speak to anyone

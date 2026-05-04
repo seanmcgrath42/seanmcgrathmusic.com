@@ -1,5 +1,6 @@
 {title:The Things You Want To Hear}
-
+{key:C}
+{url:https://www.youtube.com/watch?v=t-KAWY23T_Y}
 [C]Paint me your picture of a [E]life of bliss
 And I'll [Am]sing you a song about a [G#]lovers [G]kiss
 [C]Whisper sweet nothings [E]in my ear

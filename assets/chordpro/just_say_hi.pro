@@ -1,5 +1,6 @@
 {title:Just Say Hi}
-
+{key:C}
+{url:https://www.youtube.com/watch?v=HA9K3Kba-6c}
 [C]Too many days in a state of panic not enough days in grace
 [G]Too many barbs from the nasty people that crawl around this place
 [C]Why are we here in this house of detention heads buried deep in our hands

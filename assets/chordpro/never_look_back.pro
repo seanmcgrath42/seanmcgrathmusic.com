@@ -1,4 +1,6 @@
 {title:Never Look Back}
+{key: Bb}
+{url:https://www.youtube.com/watch?v=Xv3-lUF_2uo}
 {comment: G Capo 3 -> Bb}
 
 [D]Morning follows the [Am]setting sun

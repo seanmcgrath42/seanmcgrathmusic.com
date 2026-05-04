@@ -1,5 +1,6 @@
 {title:A Boat Load Of Lies}
 {key:Am}
+{url:https://www.youtube.com/watch?v=5F16zF8_nrI}
 
 I [Am]called you cos I [E7]just couldn't [Am]stand it
 I [F]called you cos my [E7]worries got [Am]sore

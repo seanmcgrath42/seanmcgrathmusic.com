@@ -1,5 +1,6 @@
 {title:And There You Are}
 {key:ADor}
+{url:https://www.youtube.com/watch?v=60GSMAoOCWg}
 {comment:ADor Capo 3 -> CDor}
  
 I [Am]now this might sound kinda crazy but it's [D]true (yes it's true)

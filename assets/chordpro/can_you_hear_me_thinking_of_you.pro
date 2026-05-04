@@ -1,5 +1,6 @@
 {title:Can You Hear Me Thinking of You}
-
+{key:Am}
+{url:https://www.youtube.com/watch?v=GbaCB6ANjak}
 I'm [Am]drowning out the [Am/G#]sadness and the [Am/G]pain in my [Am/F#]heart 
 [F]Can you hear me [E]thinking of [Am]you?
 I don't like these odds where they the same at the start?

@@ -1,5 +1,6 @@
 {title:White Clouds}
-
+{key:G}
+{url:https://www.youtube.com/watch?v=LkVZ9EIY6Z4}
 Does [G]ice cream really [Bm]come from the [C]white clouds a[G]bove?
 I [G]want a [Bm]white cloud for [C]someone I [G]love
 I will [G]reach high into the [Bm]sky and [C]pull one right [D]down

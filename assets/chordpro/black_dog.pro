@@ -1,5 +1,6 @@
 {title:Black Dog}
-
+{key:C}
+{url:https://www.youtube.com/watch?v=vEkVmQolgmg}
 {comment:Capo 4 C->E}
 
 I am [C]older than I [F]should be. Got a [C]troubled [F]mind

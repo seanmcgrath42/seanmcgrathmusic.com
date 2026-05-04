@@ -1,5 +1,6 @@
 {title:Trifling Little Detail}
-
+{key:G}
+{url:https://www.youtube.com/watch?v=ZGVbxXFvdhQ}
 [G]I see you face in the [E7]morning light [Am]shining like the [D7]brightest star
 [G]We trade glances [E7]left and right. [Am]Love so near and [D7]yet so far
 [Cmaj7]How I adore your [Bm7]photograph [C]hanging on my bedroom [G]wall

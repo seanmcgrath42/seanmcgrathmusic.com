@@ -1,4 +1,6 @@
 {title:Damascus}
+{key: A}
+{url:https://www.youtube.com/watch?v=ZQYJMxpgRb4}
 {comment:G capo 2->A}
 I'm [G]standing on the [C]other side of [G]nowhere
 Looking back at [C]where I've never [G]been

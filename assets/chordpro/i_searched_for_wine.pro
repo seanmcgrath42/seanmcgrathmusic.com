@@ -1,5 +1,6 @@
 {title:I Searched For Wine}
-
+{key:Am}
+{url:https://www.youtube.com/watch?v=p3T42cBYduo}
 [Am]I'm grasping at the short straw pulling hard some day I will make it mine
 You gave me a glimpse at the implications and they [E]sure look mighty fine
 I'm [Am]telling myself what I want to hear but it's taking so very long

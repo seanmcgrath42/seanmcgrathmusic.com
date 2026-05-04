@@ -1,4 +1,6 @@
 {title:Down and Out and Blue}
+{key: Bm}
+{url:https://www.youtube.com/watch?v=QP07FGBFkv8}
 {comment:Am Capo 2 -> Bm}
 
 I've [Am]been a fool more times that the sun's gone down

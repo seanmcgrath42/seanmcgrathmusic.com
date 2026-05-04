@@ -1,4 +1,6 @@
 {title:All Storms Must Die}
+{key: E}
+{url:https://www.youtube.com/watch?v=b5SBG1Fl6po}
 {comment:C Capo 4 -> E}
  
 [C]I bought a coffee and [Em]you bought a bagel 

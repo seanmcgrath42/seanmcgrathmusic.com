@@ -1,6 +1,7 @@
 {title:Two Fireflies Burning Bright}
-
-{comment: C Capo 2 -> D}
+{key:D}
+{url:https://www.youtube.com/watch?v=T6kxOZzMw_c}
+{comment:C Capo 2 -> D}
 
 The [C]fireflies are [Em]lighting the [F]forest to[G]night
 I’m [C]so tired of [Em]walking [F]alo[G]ne

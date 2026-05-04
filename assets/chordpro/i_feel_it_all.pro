@@ -1,5 +1,6 @@
 {title:I Feel It All}
 {key:G}
+{url:https://www.youtube.com/watch?v=r6dEWPDq-Hg}
 
 [G]When the wind from the east returns as the wind from the [C]west
 When the [G]good student falters and the teacher is put to the [C]test

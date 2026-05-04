@@ -1,4 +1,6 @@
 {title:I'll Cry For You}
+{key: Bb}
+{url:https://www.youtube.com/watch?v=mf6hcLv0dc4}
 {comment:G Capo 3->Bb}
 
 [G]Fast the golden river runs [D]right past my open book

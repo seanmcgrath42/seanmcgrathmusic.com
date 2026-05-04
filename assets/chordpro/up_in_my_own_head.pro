@@ -1,5 +1,6 @@
 {title:Up In My Own Head}
-
+{key:D}
+{url:https://www.youtube.com/watch?v=rIhE5MLd7N0}
 [D]Thinking about the thoughts that I am [Am]thinking
 Sleepless as the stars kill the sun
 And I'm adding two and two together

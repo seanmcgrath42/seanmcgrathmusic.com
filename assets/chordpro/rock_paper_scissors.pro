@@ -1,4 +1,6 @@
 {title:Rock Paper Scissors}
+{key: Am}
+{url:https://www.youtube.com/watch?v=iacDWtSyy-E}
 {comment:Am capo 2}
 
 [Am]If I was a mountain and if you were a rock

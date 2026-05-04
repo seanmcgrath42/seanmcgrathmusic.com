@@ -1,8 +1,7 @@
 {title:Old Oak Tree}
-{comment: Optionally switch to C middle of last line each verse}
-
+{key:Dm}
+{url:https://www.youtube.com/watch?v=17j_1REmvg0}
 [Dm]
-
 {soc}
 Under the shade of this old oak tree
 I'll sit right here till my song is done

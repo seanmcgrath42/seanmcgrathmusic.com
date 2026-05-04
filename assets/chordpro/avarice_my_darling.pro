@@ -1,5 +1,6 @@
 {title:Avarice my Darling}
-
+{key:G}
+{url:https://www.youtube.com/watch?v=IoJgUuXZPGw}
 [G]The fading light thinks such [Gmaj7]happy thoughts
 Of [G7]profits made and [C]reduced costs
 [Cm]Inside a dream make [G]of make believe

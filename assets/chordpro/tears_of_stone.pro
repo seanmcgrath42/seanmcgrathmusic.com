@@ -1,5 +1,6 @@
-{title: Tears of Stone}
+{title:Tears of Stone}
 {key:GMixo}
+{url:https://www.youtube.com/watch?v=b4_ni3HxKdM}
 
 [FMaj7]Footstep patterns in the [C]sand [FMaj7]salty wind tossing your [C]hair
 [FMaj7]Rainbow colours through the [C]clouds and you're just [G]standing there [GSus4][G]

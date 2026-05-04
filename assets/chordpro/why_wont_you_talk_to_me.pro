@@ -1,4 +1,6 @@
 {title:Why Won't You Talk To Me?}
+{key: Bb}
+{url:https://www.youtube.com/watch?v=vWR4vrDSLpU}
 {comment:G Capo 3->Bb}
 [G]All I ever wanted from [C]you was a [G]smile
 But all you seem to do is [D]cry

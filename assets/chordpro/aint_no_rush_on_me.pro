@@ -1,5 +1,6 @@
 {title:Ain't No Rush On Me}
 {key:C}
+{url:https://www.youtube.com/watch?v=AhzmQkbnxQ8}
 [C]Take your time honey cos there [G]ain't no rush on [C]me
 Take your time honey cos there [G]ain't no rush on [C]me
 

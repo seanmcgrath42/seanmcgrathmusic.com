@@ -1,4 +1,6 @@
 {title:One Royal Flush Before I Die}
+{key: A}
+{url:https://www.youtube.com/watch?v=bvXmoCsP4Q8}
 {comment: G capo 2 -> A}
 
 You [G]tell me you want to stay but that you [C]really need to go

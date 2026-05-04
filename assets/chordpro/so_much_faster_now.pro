@@ -1,9 +1,10 @@
 {title:So Much Faster Now}
-{key:G}
+{key:E}
+{url:https://www.youtube.com/watch?v=2zelngqL16A}
 {soc}
-[G]You can never catch me [C]no sir no way no [G]how (no how)
-[C]You can never catch me No sir no way no [G]how (no how)
-[D7]Take all the time you need cos I [C]run so much faster [G]now
+[E]You can never catch me [A]no sir no way no [E]how (no how)
+[A]You can never catch me No sir no way no [E]how (no how)
+[B7]Take all the time you need cos I [A]run so much faster [E]now
 {eoc}
 
 The same old confusions well they don’t bother me no more (No more)

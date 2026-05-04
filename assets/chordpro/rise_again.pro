@@ -1,5 +1,6 @@
 {title:Rise Again}
-
+{key:Gm}
+{url:https://www.youtube.com/watch?v=ZTsBR3JLK6g}
 [G]I will pray for the other ones that [Am7]want to hang around
 [Bm7]Let them find what [Am7]they are looking [G]for
 But I am moving out of here I'll come around again

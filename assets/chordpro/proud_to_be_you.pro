@@ -1,4 +1,6 @@
-{title: Proud To Be You}
+{title:Proud To Be You}
+{key:D}
+{url:https://www.youtube.com/watch?v=ztPjIRdi18g}
 
 [D][G/B][A7][A7Sus4][D]
 [D][G/B][A7][A7Sus4][D]

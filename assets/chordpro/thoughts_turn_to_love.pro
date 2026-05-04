@@ -1,5 +1,6 @@
 {title:Thoughts Turn To Love}
-
+{key:C}
+{url:https://www.youtube.com/watch?v=2hXHoRZbD0E}
 I have [C]endless am[Am]ounts of [F]trouble and [C]pain
 In endless repe[Am]titions a[D]gain and a[G]gain
 

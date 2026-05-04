@@ -1,4 +1,6 @@
 {title:Cutting Loose Again}
+{key: Cm}
+{url:https://www.youtube.com/watch?v=HKW_G2uCTEs}
 {comment:Am Capo 3 -> Cm}
 
 My [Am]bed is in the front room and my dinner is in the dog

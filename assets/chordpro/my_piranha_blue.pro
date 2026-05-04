@@ -1,4 +1,6 @@
-{title: My Piranha Blue}
+{title:My Piranha Blue}
+{key: D}
+{url:https://www.youtube.com/watch?v=kPXvYWuhac8}
 {comment:C Capo 2 -> D}
 
 [C]All the little things that you say. All the  little things that you [C7]do

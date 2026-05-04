@@ -1,5 +1,6 @@
 {title:Away From The War}
-
+{key:G}
+{url:https://www.youtube.com/watch?v=5u6-dlZn4VQ}
 [G]I used to fight [C]all day and all [G]night
 [C]All day and [G]night with my [D]head
 [G]I used to scream in my [C]room all a[G]lone

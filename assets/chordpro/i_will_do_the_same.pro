@@ -1,4 +1,6 @@
 {title:I Will do the Same}
+{key: E}
+{url:https://www.youtube.com/watch?v=4hAX71y-2qA}
 {comment: C Capo 4->E}
 [C]Dump the useless [F]weight of expec[C]tations
 Excrete the last [F]piece of bad ad[C]vice

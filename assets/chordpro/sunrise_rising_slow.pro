@@ -1,4 +1,6 @@
 {title:Sunrise Rising Slow}
+{key: E}
+{url:https://www.youtube.com/watch?v=2ROedvDFIxU}
 {comment: C Capo 4 -> E}
 
 I am [F]dreaming a new dawn before it [C]rises

@@ -1,5 +1,6 @@
 {title:Trouble From You}
 {key:Am}
+{url:https://www.youtube.com/watch?v=wVRtjb02uGM}
 {comment:Am capo 2->Bm}
 
 {soc}

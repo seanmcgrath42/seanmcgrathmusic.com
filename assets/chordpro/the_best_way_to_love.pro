@@ -1,4 +1,6 @@
 {title:The Best Way to Love}
+{key: Cm}
+{url:https://www.youtube.com/watch?v=WD7Jb4tJn6E}
 {comment: Capo 3 Am -> Cm}
 
 [Dm]Take away these trees please for I [Am]cannot see the forest

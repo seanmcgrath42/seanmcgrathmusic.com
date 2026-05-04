@@ -1,5 +1,6 @@
 {title:I Will Arise And I Will Go}
-
+{key:Dm}
+{url:https://www.youtube.com/watch?v=wRiUh0Sp2MY}
 [Dm]So long to your sharpened tongue
 [Gm]Goodbye to your one good lung
 [Dm]Farewell to the jaundice in your [A7]eyes

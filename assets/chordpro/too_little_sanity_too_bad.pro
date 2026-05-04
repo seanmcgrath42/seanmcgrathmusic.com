@@ -1,5 +1,6 @@
-{title: Too Little Sanity Too Bad}
+{title:Too Little Sanity Too Bad}
 {key:A}
+{url:https://www.youtube.com/watch?v=GR0up0sEHWc}
 
 [A]Well I am watchin' the painter man he is [C]waiting for his [G]paint to [A]dry
 I'm listening to the singer man [C]singin' about the [G]bye and [A]bye

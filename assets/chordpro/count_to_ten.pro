@@ -1,4 +1,6 @@
 {title:Count To Ten}
+{key: Bm}
+{url:https://www.youtube.com/watch?v=S5SzBk3zp8U}
 {comment: Am Capo 2 -> Bm}
 
 [Am]What have I [G]done oh [Em]where to be[Am]gin?

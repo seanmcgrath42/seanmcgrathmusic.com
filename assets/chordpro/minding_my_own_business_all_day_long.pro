@@ -1,5 +1,6 @@
 {title:Minding My Own Business All Day Long}
-
+{key:E}
+{url:https://www.youtube.com/watch?v=0gfM5fYEPaM}
 [E]I've been looking out the window [E7]looking out the door
 [G#]Looking for the things I haven't [A]seen before
 I am [Am]minding my own [E]business all day [B]long[B7]

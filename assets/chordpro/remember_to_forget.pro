@@ -1,5 +1,6 @@
 {title:Remember To Forget}
-
+{key:G}
+{url:https://www.youtube.com/watch?v=IK-KsccBvlI}
 [G]You and I were [Bm]all that mattered [C]you and I were [G]one
 A band of colors [Bm]scattered by the [C]early morning [D]sun
 [Em]You and I could [G]take a rhyme and [D]turn it into [Em]song

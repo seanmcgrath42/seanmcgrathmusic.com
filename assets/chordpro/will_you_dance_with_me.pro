@@ -1,4 +1,6 @@
 {title:Will You Dance With Me}
+{key: Eb}
+{url:https://www.youtube.com/watch?v=r4EU_UpFeBY}
 {comment: C Capo 3->Eb}
 The [C]only thing that can [G]ever pass is [F]time[G]
 The only time that’s real is here and now

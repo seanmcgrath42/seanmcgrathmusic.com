@@ -1,4 +1,6 @@
 {title:One Good Ear}
+{key: D}
+{url:https://www.youtube.com/watch?v=x17zS6uFMlI}
 {comment: C capo 2 -> D}
 
 [C]Sit down [E]beside my [Am]one good [F]ear

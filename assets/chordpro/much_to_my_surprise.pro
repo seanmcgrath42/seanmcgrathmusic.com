@@ -1,5 +1,6 @@
 {title:Much To My Surprise}
-
+{key:G}
+{url:https://www.youtube.com/watch?v=1xgUF3LxGcg}
 {soc}
 [G]Much to my sur[D]prise I find I [G]love you
 [C]Much to my surprise I find you [G]care

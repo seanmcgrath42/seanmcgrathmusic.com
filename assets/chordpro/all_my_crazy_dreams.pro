@@ -1,5 +1,6 @@
 {title:All My Crazy Dreams}
-
+{key:G}
+{url:https://www.youtube.com/watch?v=KIdjnMrVFyY}
 {soc}
 [GMaj7]All my crazy dreams are [Am7]packed up and [D7]ready to [GMaj7]go
 [Am7]Where I'll lay my [D7]hat I don't [GMaj7]know

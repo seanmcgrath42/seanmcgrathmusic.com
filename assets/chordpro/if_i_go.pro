@@ -1,4 +1,6 @@
 {title:If I Go}
+{key:D}
+{url:https://www.youtube.com/watch?v=fMrckYMpRWc}
 
 [D]In every town there is a place where [C]thoughts of leaving [G]go to [D]die
 In every town there is a place where thoughts of leaving are reborn

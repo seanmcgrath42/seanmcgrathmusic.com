@@ -1,5 +1,6 @@
 {title:Darker Shade Of You}
 {key:Am}
+{url:https://www.youtube.com/watch?v=qofZGi2rYN0}
 {comment:Am Capo 2 -> Bm}
 
 Your [E]speech slows down and the volume [Am]fades

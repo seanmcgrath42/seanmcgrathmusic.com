@@ -1,5 +1,6 @@
 {title:Woe Is Me}
-
+{key:Am}
+{url:https://www.youtube.com/watch?v=cqceKMSZacE}
 [Am]I'm all on my own with a [G]flat spare [Am]tyre
 Oh oh [F]woe is [E7]me
 My [Am]wallet  flew into a [G]dumpster [Em]fire

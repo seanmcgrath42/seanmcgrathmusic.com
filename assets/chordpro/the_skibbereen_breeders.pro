@@ -1,5 +1,6 @@
-{title: The Skibbereen Breeders}
-
+{title:The Skibbereen Breeders}
+{key:G}
+{url:https://www.youtube.com/watch?v=gKLuc4K8HRw}
 [G]Over the [D]sea to Aus[C]tralia I will [G]go
 With [Am]petticoats and [G]shoes a [C]bible and a [D]spoon
 From [G]starving Skibbe[D]reen to a [C]land I've never [G]seen

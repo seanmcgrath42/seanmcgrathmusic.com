@@ -1,5 +1,6 @@
 {title:So It Goes}
-
+{key:C}
+{url:https://www.youtube.com/watch?v=xNY58CHijxs}
 This [C]room is getting [F]smaller every [G]day
 And I can [C]now touch the [F]roof with my [G]toes
 And the [C]voices have [F]nothing good to [G]say any [C]more

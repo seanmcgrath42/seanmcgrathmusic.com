@@ -1,5 +1,6 @@
-{title: Tea for Two}
-
+{title:Tea for Two}
+{key:C}
+{url:https://www.youtube.com/watch?v=TKSEbNQABGg}
 {soc}
 [C]I find [Em]myself making [F]tea for [C]two
 I find [Em]myself making [F]room for [C]you

@@ -1,5 +1,6 @@
 {title:It's Fifty In The Shade}
 {key:Am}
+{url:https://www.youtube.com/watch?v=IFakVkMbSko}
 
 {comment:Capo 2 Am->Bm}
 

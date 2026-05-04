@@ -1,5 +1,6 @@
 {title:Colours}
 {key:G}
+{url:https://www.youtube.com/watch?v=IePcz5wR8wk}
 {comment:G Capo 2->A}
 
 {soc}

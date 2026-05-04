@@ -1,4 +1,6 @@
 {title:Dream A Little Dream With Me}
+{key: D}
+{url:https://www.youtube.com/watch?v=SeZ4s-uhckI}
 {comment:C Capo 2->D}
 
 [C]Two pairs of sturdy shoes bi-focals for our eyes

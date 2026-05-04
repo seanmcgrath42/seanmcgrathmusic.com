@@ -1,4 +1,6 @@
-{title: Me And My Heart}
+{title:Me And My Heart}
+{key: A}
+{url:https://www.youtube.com/watch?v=AxF3dMrln_8}
 {comment:G Capo 2->A}
 
 [G]I see you in my dreams and we [C]both know what that [G]means

@@ -1,4 +1,6 @@
 {title:Be Here Soon}
+{key: G}
+{url:https://www.youtube.com/watch?v=Cyh2BKPQ57Y}
 {comment: G Capo 2}
 
 [G]The post in the hall is piled up so high

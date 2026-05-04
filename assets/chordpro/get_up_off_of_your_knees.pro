@@ -1,5 +1,6 @@
 {title:Get Up Off Of Your Knees}
 {key:C}
+{url:https://www.youtube.com/watch?v=lAteQIRkN2Q}
 
 You bought me [C]diamonds you bought me [C7]gold but I'm the [F]gem you failed to [Fm]hold
 So you can [C]get up [E7]off your [Am]knees

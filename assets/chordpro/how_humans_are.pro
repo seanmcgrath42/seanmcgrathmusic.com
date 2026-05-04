@@ -1,5 +1,6 @@
 {title:How Humans Are}
-
+{key:G}
+{url:https://www.youtube.com/watch?v=FIn_eyDf7pM}
 {comment: G Capo 5 -> C}
 
 [G]When the roof caves in on circumstance and the [D7/F#]fireflies fade away

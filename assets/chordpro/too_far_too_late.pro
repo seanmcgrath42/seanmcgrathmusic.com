@@ -1,5 +1,6 @@
 {title:Too Far Too Late}
-
+{key:C}
+{url:https://www.youtube.com/watch?v=lw6IGXsYbPw}
 It [C]started out a [C/B]small thing that [Am]I had failed to [G]grasp
 A [C]break in conti[C/B]nuity with the [Am]notions from my [G]past
 That [F]I had nurtured and [G]cherished with much [C]pride[C/B][Am][G]

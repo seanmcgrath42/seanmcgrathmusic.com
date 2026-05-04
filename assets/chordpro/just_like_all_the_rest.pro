@@ -1,5 +1,6 @@
 {title:Just Like All The Rest}
 {key:Am}
+{url:https://www.youtube.com/watch?v=qsX3V-xac10}
 {comment:Am Capo 2->Bm}
 
 You [Am]left me facing the pointy end to [E7]fend all for myself

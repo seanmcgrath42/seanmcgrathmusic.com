@@ -1,4 +1,6 @@
 {title:Make It So}
+{key: Bm}
+{url:https://www.youtube.com/watch?v=CKjg_4nG3Nk}
 {comment:Am Capo 2->Bm}
 
 [Am]A warm bowl of rice or a cold tin of beans

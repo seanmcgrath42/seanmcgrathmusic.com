@@ -1,4 +1,6 @@
 {title:Some Trick I Need To Know}
+{key: E}
+{url:https://www.youtube.com/watch?v=soLzcuoWyPo}
 {comment:C Capo 4->E}
 
 I’m [C]down in a hole where the [F]sun doesn’t [C]shine

@@ -1,5 +1,6 @@
-{title: And So Are You}
+{title:And So Are You}
 {key:Em}
+{url:https://www.youtube.com/watch?v=VtkobmvU4JA}
 
 [Em]It was ten thousand days ago
 I was [B7]just a kid out on the road

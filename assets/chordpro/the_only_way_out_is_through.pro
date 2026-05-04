@@ -1,5 +1,6 @@
 {title:The Only Way Out Is Through}
 {key:E}
+{url:https://www.youtube.com/watch?v=ONY6a23Dh-g}
 
 [E]Tell me my old friend [A]what have you come here [E]for
 Tell me my good friend what [A]trouble has fallen on [E]you?

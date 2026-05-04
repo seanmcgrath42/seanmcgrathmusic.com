@@ -1,5 +1,6 @@
 {title:Aphrodite Baby}
-
+{key:C}
+{url:https://www.youtube.com/watch?v=OCImhYArm70}
 [C]You'd look really wonderful [E]outside my front door
 I'd [Am]like to take you home but I [D7]don't live there any more
 Aphro[C]dite baby [G]can we be [C]friends?[G]

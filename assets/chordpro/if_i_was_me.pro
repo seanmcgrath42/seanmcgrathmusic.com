@@ -1,5 +1,6 @@
 {title:If I Was Me}
-
+{key:Am}
+{url:https://www.youtube.com/watch?v=KZ6tYW8VN04}
 [F][E7][Am]
 [F][E7][Am][E7]
 
