@@ -1,720 +1,812 @@
-- title: Be Here Soon
+# Master song list — batch order is canonical.
+# Edit youtube_id, mp3_gdrive_id, and covers here; run sync.py after adding songs.
+
+- title: "Be Here Soon"
   slug: be_here_soon
   batch: 1
   batch_position: 1
-  youtube_id: Cyh2BKPQ57Y
-  key: G
-  mp3_gdrive_id: 1UKcBndFxy9VmmJoBd92OZ3j6WxKBdAkW
+  youtube_id: "Cyh2BKPQ57Y"
+  key: "G"
+  mp3_gdrive_id: "1UKcBndFxy9VmmJoBd92OZ3j6WxKBdAkW"
   covers: []
-- title: Black Dog
+
+- title: "Black Dog"
   slug: black_dog
   batch: 1
   batch_position: 2
-  youtube_id: vEkVmQolgmg
-  key: C
-  mp3_gdrive_id: 14MQ4jJEI2XlBPvHxpXwD56Kz34w8fWGl
+  youtube_id: "vEkVmQolgmg"
+  key: "C"
+  mp3_gdrive_id: "14MQ4jJEI2XlBPvHxpXwD56Kz34w8fWGl"
   covers: []
-- title: Colours
+
+- title: "Colours"
   slug: colours
   batch: 1
   batch_position: 3
-  youtube_id: IePcz5wR8wk
-  key: G
-  mp3_gdrive_id: 1oUBRkc-zLvBgeJ6TQ7-UitJH19VdPLBy
+  youtube_id: "IePcz5wR8wk"
+  key: "G"
+  mp3_gdrive_id: "1oUBRkc-zLvBgeJ6TQ7-UitJH19VdPLBy"
   covers: []
-- title: Damascus
+
+- title: "Damascus"
   slug: damascus
   batch: 1
   batch_position: 4
-  youtube_id: ZQYJMxpgRb4
-  key: A
-  mp3_gdrive_id: 1nlXybxuEtToyFv5Iy0_05PDlGGJrRnkB
+  youtube_id: "ZQYJMxpgRb4"
+  key: "A"
+  mp3_gdrive_id: "1nlXybxuEtToyFv5Iy0_05PDlGGJrRnkB"
   covers: []
-- title: Darker Shade Of You
+
+- title: "Darker Shade Of You"
   slug: darker_shade_of_you
   batch: 1
   batch_position: 5
-  youtube_id: qofZGi2rYN0
-  key: Am
-  mp3_gdrive_id: 1U0UgsyenPPDo5fL58pgIaLlifPvBdVWQ
+  youtube_id: "qofZGi2rYN0"
+  key: "Am"
+  mp3_gdrive_id: "1U0UgsyenPPDo5fL58pgIaLlifPvBdVWQ"
   covers: []
-- title: Dream A Little Dream With Me
+
+- title: "Dream A Little Dream With Me"
   slug: dream_a_little_dream_with_me
   batch: 1
   batch_position: 6
-  youtube_id: SeZ4s-uhckI
-  key: D
-  mp3_gdrive_id: 1UmM7yj5eJHpQKjcq1hUAbzUEsCgSgVjL
+  youtube_id: "SeZ4s-uhckI"
+  key: "D"
+  mp3_gdrive_id: "1UmM7yj5eJHpQKjcq1hUAbzUEsCgSgVjL"
   covers: []
-- title: High On Life
+
+- title: "High On Life"
   slug: high_on_life
   batch: 1
   batch_position: 7
-  youtube_id: kYiYAgDCWZs
-  key: F mixo
-  mp3_gdrive_id: 1Visw8Y1z8mYI7y26d7040MbKJ5JGfoFx
+  youtube_id: "kYiYAgDCWZs"
+  key: "F mixo"
+  mp3_gdrive_id: "1Visw8Y1z8mYI7y26d7040MbKJ5JGfoFx"
   covers: []
-- title: I Feel It All
+
+- title: "I Feel It All"
   slug: i_feel_it_all
   batch: 1
   batch_position: 8
-  youtube_id: r6dEWPDq-Hg
-  key: G
-  mp3_gdrive_id: 1HJoPtci52FpmiKTo79wiTCRaArX9wiYP
+  youtube_id: "r6dEWPDq-Hg"
+  key: "G"
+  mp3_gdrive_id: "1HJoPtci52FpmiKTo79wiTCRaArX9wiYP"
   covers: []
-- title: I Will do the Same
+
+- title: "I Will do the Same"
   slug: i_will_do_the_same
   batch: 1
   batch_position: 9
-  youtube_id: 4hAX71y-2qA
-  key: E
-  mp3_gdrive_id: 1-yDrZdv6KRO5w7XMhT0DHPHS6PyZse0f
+  youtube_id: "4hAX71y-2qA"
+  key: "E"
+  mp3_gdrive_id: "1-yDrZdv6KRO5w7XMhT0DHPHS6PyZse0f"
   covers: []
-- title: Just Like All The Rest
+
+- title: "Just Like All The Rest"
   slug: just_like_all_the_rest
   batch: 1
   batch_position: 10
-  youtube_id: qsX3V-xac10
-  key: Am
-  mp3_gdrive_id: 1wd8Xq_0eHToE752hr0jFCZ-STqOIrbeu
+  youtube_id: "qsX3V-xac10"
+  key: "Am"
+  mp3_gdrive_id: "1wd8Xq_0eHToE752hr0jFCZ-STqOIrbeu"
   covers: []
-- title: Away From The War
+
+- title: "Away From The War"
   slug: away_from_the_war
   batch: 2
   batch_position: 1
-  youtube_id: 5u6-dlZn4VQ
-  key: G
-  mp3_gdrive_id: 1aCh7yjB8RKCkFTEHVtopqIMkprfb6s2g
+  youtube_id: "5u6-dlZn4VQ"
+  key: "G"
+  mp3_gdrive_id: "1aCh7yjB8RKCkFTEHVtopqIMkprfb6s2g"
   covers: []
-- title: Me And My Heart
+
+- title: "Me And My Heart"
   slug: me_and_my_heart
   batch: 2
   batch_position: 2
-  youtube_id: AxF3dMrln_8
-  key: A
-  mp3_gdrive_id: 1E0kMSrzMnCKZz7mL0cI8IxbArqOpBQCK
+  youtube_id: "AxF3dMrln_8"
+  key: "A"
+  mp3_gdrive_id: "1E0kMSrzMnCKZz7mL0cI8IxbArqOpBQCK"
   covers: []
-- title: Much To My Surprise
+
+- title: "Much To My Surprise"
   slug: much_to_my_surprise
   batch: 2
   batch_position: 3
-  youtube_id: 1xgUF3LxGcg
-  key: G
-  mp3_gdrive_id: 1NM1-kPgwVcJKC0Iv2maEegVZLYH6JWQz
+  youtube_id: "1xgUF3LxGcg"
+  key: "G"
+  mp3_gdrive_id: "1NM1-kPgwVcJKC0Iv2maEegVZLYH6JWQz"
   covers: []
-- title: My Knot of Sorrow
+
+- title: "My Knot of Sorrow"
   slug: my_knot_of_sorrow
   batch: 2
   batch_position: 4
-  youtube_id: TvIaCivE8i4
-  key: Cm
-  mp3_gdrive_id: 1nnvUqZtznyKrP_DJr2PNAMPKiTaJ_pDl
+  youtube_id: "TvIaCivE8i4"
+  key: "Cm"
+  mp3_gdrive_id: "1nnvUqZtznyKrP_DJr2PNAMPKiTaJ_pDl"
   covers: []
-- title: My Only Son
+
+- title: "My Only Son"
   slug: my_only_son
   batch: 2
   batch_position: 5
-  youtube_id: Vm3NDJoXRyk
-  key: Am
-  mp3_gdrive_id: 1cCgPwRz6ChKERBuCCLtM7QYKcrwPkyKB
+  youtube_id: "Vm3NDJoXRyk"
+  key: "Am"
+  mp3_gdrive_id: "1cCgPwRz6ChKERBuCCLtM7QYKcrwPkyKB"
   covers: []
-- title: No Need To Hide
+
+- title: "No Need To Hide"
   slug: no_need_to_hide
   batch: 2
   batch_position: 6
-  youtube_id: gDVXVI_2pT8
-  key: Bb
-  mp3_gdrive_id: 15w2woP_3rnLSfjwPliml3dXs0HJ5OuKD
+  youtube_id: "gDVXVI_2pT8"
+  key: "Bb"
+  mp3_gdrive_id: "15w2woP_3rnLSfjwPliml3dXs0HJ5OuKD"
   covers: []
-- title: Nothing Much Left For Us To Do
+
+- title: "Nothing Much Left For Us To Do"
   slug: nothing_much_left_for_us_to_do
   batch: 2
   batch_position: 7
-  youtube_id: ARSyddhd_v4
-  key: Eb
-  mp3_gdrive_id: 1Kl7nJd0SwERWUY4CnX3Oo4-LI-h2ohNj
+  youtube_id: "ARSyddhd_v4"
+  key: "Eb"
+  mp3_gdrive_id: "1Kl7nJd0SwERWUY4CnX3Oo4-LI-h2ohNj"
   covers: []
-- title: Oh Happy Days
+
+- title: "Oh Happy Days"
   slug: oh_happy_days
   batch: 2
   batch_position: 8
-  youtube_id: Hsw_C0vQRhU
-  key: G
-  mp3_gdrive_id: 188ML5ofhOJSdEmuIRyVeXevOGC9L1Fct
+  youtube_id: "Hsw_C0vQRhU"
+  key: "G"
+  mp3_gdrive_id: "188ML5ofhOJSdEmuIRyVeXevOGC9L1Fct"
   covers: []
-- title: Please Come Home
+
+- title: "Please Come Home"
   slug: please_come_home
   batch: 2
   batch_position: 9
-  youtube_id: 6Xnn5okBkZA
-  key: C
-  mp3_gdrive_id: 1Kflw2QX6h8iNFj_KRTSv7eOoQLinxQAo
+  youtube_id: "6Xnn5okBkZA"
+  key: "C"
+  mp3_gdrive_id: "1Kflw2QX6h8iNFj_KRTSv7eOoQLinxQAo"
   covers: []
-- title: The Second Time Around
+
+- title: "The Second Time Around"
   slug: the_second_time_around
   batch: 2
   batch_position: 10
-  youtube_id: _usj14eld8c
-  key: G
-  mp3_gdrive_id: 1m2sBPO6rlmc2T0RN9THSXmgh3GR8R4ls
+  youtube_id: "_usj14eld8c"
+  key: "G"
+  mp3_gdrive_id: "1m2sBPO6rlmc2T0RN9THSXmgh3GR8R4ls"
   covers: []
-- title: Six White Horses
+
+- title: "Six White Horses"
   slug: six_white_horses
   batch: 3
   batch_position: 1
-  youtube_id: roTNMlWg0Uc
-  key: A
-  mp3_gdrive_id: 1voJjheda17zhmSUizJabbasxKuIteGFW
+  youtube_id: "roTNMlWg0Uc"
+  key: "A"
+  mp3_gdrive_id: "1voJjheda17zhmSUizJabbasxKuIteGFW"
   covers: []
-- title: So Much Faster Now
+
+- title: "So Much Faster Now"
   slug: so_much_faster_now
   batch: 3
   batch_position: 2
-  youtube_id: 2zelngqL16A
-  key: E
-  mp3_gdrive_id: 1x4E_puzdW5XxrTQGKtnB_gOoPVDtXno8
+  youtube_id: "2zelngqL16A"
+  key: "E"
+  mp3_gdrive_id: "1x4E_puzdW5XxrTQGKtnB_gOoPVDtXno8"
   covers: []
-- title: Some Trick I Need To Know
+
+- title: "Some Trick I Need To Know"
   slug: some_trick_i_need_to_know
   batch: 3
   batch_position: 3
-  youtube_id: soLzcuoWyPo
-  key: E
-  mp3_gdrive_id: 1zsDKBu5ZWpnE8nc4Fbt0cKRTC5X3fLnw
+  youtube_id: "soLzcuoWyPo"
+  key: "E"
+  mp3_gdrive_id: "1zsDKBu5ZWpnE8nc4Fbt0cKRTC5X3fLnw"
   covers: []
-- title: Spare the Tonic and Pour the Gin
+
+- title: "Spare the Tonic and Pour the Gin"
   slug: spare_the_tonic_and_pour_the_gin
   batch: 3
   batch_position: 4
-  youtube_id: QTxeMLWa7Ek
-  key: Dm
-  mp3_gdrive_id: 18y9ZJYrUEQQ3VGLUYrv26H2RDJd-o0Tg
+  youtube_id: "QTxeMLWa7Ek"
+  key: "Dm"
+  mp3_gdrive_id: "18y9ZJYrUEQQ3VGLUYrv26H2RDJd-o0Tg"
   covers: []
-- title: Tea for Two
+
+- title: "Tea for Two"
   slug: tea_for_two
   batch: 3
   batch_position: 5
-  youtube_id: TKSEbNQABGg
-  key: C
-  mp3_gdrive_id: 1Hcebdg067zrQX8cgDNwe74moyAN1xVKB
+  youtube_id: "TKSEbNQABGg"
+  key: "C"
+  mp3_gdrive_id: "1Hcebdg067zrQX8cgDNwe74moyAN1xVKB"
   covers: []
-- title: Tears of Stone
+
+- title: "Tears of Stone"
   slug: tears_of_stone
   batch: 3
   batch_position: 6
-  youtube_id: b4_ni3HxKdM
-  key: GMixo
-  mp3_gdrive_id: 1LiG5IxDMDCQmJevG5-i25ZoIm4HY6UHc
+  youtube_id: "b4_ni3HxKdM"
+  key: "GMixo"
+  mp3_gdrive_id: "1LiG5IxDMDCQmJevG5-i25ZoIm4HY6UHc"
   covers: []
-- title: The Only Way Out Is Through
+
+- title: "The Only Way Out Is Through"
   slug: the_only_way_out_is_through
   batch: 3
   batch_position: 7
-  youtube_id: ONY6a23Dh-g
-  key: E
-  mp3_gdrive_id: 1hmh7AibJEmzX1EGr82mB_cr2KaMF_BSJ
+  youtube_id: "ONY6a23Dh-g"
+  key: "E"
+  mp3_gdrive_id: "1hmh7AibJEmzX1EGr82mB_cr2KaMF_BSJ"
   covers: []
-- title: Too Little Sanity Too Bad
+
+- title: "Too Little Sanity Too Bad"
   slug: too_little_sanity_too_bad
   batch: 3
   batch_position: 8
-  youtube_id: GR0up0sEHWc
-  key: A
-  mp3_gdrive_id: 1Zsb5VPzfzeZk9NHQZk08hy8gwebbTauQ
+  youtube_id: "GR0up0sEHWc"
+  key: "A"
+  mp3_gdrive_id: "1Zsb5VPzfzeZk9NHQZk08hy8gwebbTauQ"
   covers: []
-- title: Trouble From You
+
+- title: "Trouble From You"
   slug: trouble_from_you
   batch: 3
   batch_position: 9
-  youtube_id: wVRtjb02uGM
-  key: Am
-  mp3_gdrive_id: 1M9OBVhJ1Q_DX_emYHZlIpXb1izFX-nZK
+  youtube_id: "wVRtjb02uGM"
+  key: "Am"
+  mp3_gdrive_id: "1M9OBVhJ1Q_DX_emYHZlIpXb1izFX-nZK"
   covers: []
-- title: Up In My Own Head
+
+- title: "Up In My Own Head"
   slug: up_in_my_own_head
   batch: 3
   batch_position: 10
-  youtube_id: rIhE5MLd7N0
-  key: D
-  mp3_gdrive_id: 14Fm_VLwGKQUNDtd2R5wHT8fyV4o0xUJF
+  youtube_id: "rIhE5MLd7N0"
+  key: "D"
+  mp3_gdrive_id: "14Fm_VLwGKQUNDtd2R5wHT8fyV4o0xUJF"
   covers: []
-- title: A Boat Load Of Lies
+
+- title: "A Boat Load Of Lies"
   slug: a_boat_load_of_lies
   batch: 4
   batch_position: 1
-  youtube_id: 5F16zF8_nrI
-  key: Am
-  mp3_gdrive_id: 13emDpnftqBqHHzU0vEipqHC_LFa2YfIM
+  youtube_id: "5F16zF8_nrI"
+  key: "Am"
+  mp3_gdrive_id: "13emDpnftqBqHHzU0vEipqHC_LFa2YfIM"
   covers: []
-- title: A Little Place I Know
+
+- title: "A Little Place I Know"
   slug: a_little_place_i_know
   batch: 4
   batch_position: 2
-  youtube_id: 4b16eLZnvU0
-  key: Em
-  mp3_gdrive_id: 1AsHIVJ_4OTHHnSguXyS04D4eMAYydfxx
+  youtube_id: "4b16eLZnvU0"
+  key: "Em"
+  mp3_gdrive_id: "1AsHIVJ_4OTHHnSguXyS04D4eMAYydfxx"
   covers: []
-- title: All My Crazy Dreams
+
+- title: "All My Crazy Dreams"
   slug: all_my_crazy_dreams
   batch: 4
   batch_position: 3
-  youtube_id: KIdjnMrVFyY
-  key: G
-  mp3_gdrive_id: 1nYeebmppTd7KoAbPm_R_mAc7bI1zJKoI
+  youtube_id: "KIdjnMrVFyY"
+  key: "G"
+  mp3_gdrive_id: "1nYeebmppTd7KoAbPm_R_mAc7bI1zJKoI"
   covers: []
-- title: And So Are You
+
+- title: "And So Are You"
   slug: and_so_are_you
   batch: 4
   batch_position: 4
-  youtube_id: VtkobmvU4JA
-  key: Em
-  mp3_gdrive_id: 1dINrbvCfFfRvFJaEzwlMBgg4RIJ5gqib
+  youtube_id: "VtkobmvU4JA"
+  key: "Em"
+  mp3_gdrive_id: "1dINrbvCfFfRvFJaEzwlMBgg4RIJ5gqib"
   covers: []
-- title: Count To Ten
+
+- title: "Count To Ten"
   slug: count_to_ten
   batch: 4
   batch_position: 5
-  youtube_id: S5SzBk3zp8U
-  key: Bm
-  mp3_gdrive_id: 1Avr40gB-WyjnSoAQC1Oi3XGL5HuhA4f0
+  youtube_id: "S5SzBk3zp8U"
+  key: "Bm"
+  mp3_gdrive_id: "1Avr40gB-WyjnSoAQC1Oi3XGL5HuhA4f0"
   covers: []
-- title: Damn You Delilah
+
+- title: "Damn You Delilah"
   slug: damn_you_delilah
   batch: 4
   batch_position: 6
-  youtube_id: b3SYzrOaqUE
-  key: D
-  mp3_gdrive_id: 1DhXQPjcZTyUN9tjGti5nXMyst0182WsB
+  youtube_id: "b3SYzrOaqUE"
+  key: "D"
+  mp3_gdrive_id: "1DhXQPjcZTyUN9tjGti5nXMyst0182WsB"
   covers: []
-- title: Get Up Off Of Your Knees
+
+- title: "Get Up Off Of Your Knees"
   slug: get_up_off_of_your_knees
   batch: 4
   batch_position: 7
-  youtube_id: lAteQIRkN2Q
-  key: C
-  mp3_gdrive_id: 1QpC8UhiTzBguGpxYG2biwTzHs-wDSjdD
+  youtube_id: "lAteQIRkN2Q"
+  key: "C"
+  mp3_gdrive_id: "1QpC8UhiTzBguGpxYG2biwTzHs-wDSjdD"
   covers: []
-- title: Sunrise Rising Slow
+
+- title: "Sunrise Rising Slow"
   slug: sunrise_rising_slow
   batch: 4
   batch_position: 8
-  youtube_id: 2ROedvDFIxU
-  key: E
-  mp3_gdrive_id: 1wLgLR116P2_g9k34lyIeJasBX-OKeFC4
+  youtube_id: "2ROedvDFIxU"
+  key: "E"
+  mp3_gdrive_id: "1wLgLR116P2_g9k34lyIeJasBX-OKeFC4"
   covers: []
-- title: Why Won't You Talk To Me?
+
+- title: "Why Won't You Talk To Me?"
   slug: why_wont_you_talk_to_me
   batch: 4
   batch_position: 9
-  youtube_id: vWR4vrDSLpU
-  key: Bb
-  mp3_gdrive_id: 13RLgl-qoNmrLfHFmNRvybmwqrDEWoVC-
+  youtube_id: "vWR4vrDSLpU"
+  key: "Bb"
+  mp3_gdrive_id: "13RLgl-qoNmrLfHFmNRvybmwqrDEWoVC-"
   covers: []
-- title: Will You Dance With Me
+
+- title: "Will You Dance With Me"
   slug: will_you_dance_with_me
   batch: 4
   batch_position: 10
-  youtube_id: r4EU_UpFeBY
-  key: Eb
-  mp3_gdrive_id: 1lO-0dsqCwyfGNjkC2lsn43FKm2L4WE5H
+  youtube_id: "r4EU_UpFeBY"
+  key: "Eb"
+  mp3_gdrive_id: "1lO-0dsqCwyfGNjkC2lsn43FKm2L4WE5H"
   covers: []
-- title: Aphrodite Baby
+
+- title: "Aphrodite Baby"
   slug: aphrodite_baby
   batch: 5
   batch_position: 1
-  youtube_id: OCImhYArm70
-  key: C
-  mp3_gdrive_id: 1iUSydGUpTCST2ofO7AOmN8C6vPYMdHaX
+  youtube_id: "OCImhYArm70"
+  key: "C"
+  mp3_gdrive_id: "1iUSydGUpTCST2ofO7AOmN8C6vPYMdHaX"
   covers: []
-- title: I Think of You
+
+- title: "I Think of You"
   slug: i_think_of_you
   batch: 5
   batch_position: 2
-  youtube_id: 5VspDKtxmCM
-  key: Dm
-  mp3_gdrive_id: 1rJmqIg44grj9ENp7t7eI_3Jcf9K7JYIX
+  youtube_id: "5VspDKtxmCM"
+  key: "Dm"
+  mp3_gdrive_id: "1rJmqIg44grj9ENp7t7eI_3Jcf9K7JYIX"
   covers: []
-- title: I'll Meet You Down Below
+
+- title: "I'll Meet You Down Below"
   slug: ill_meet_you_down_below
   batch: 5
   batch_position: 3
-  youtube_id: -DfKgdhfj9U
-  key: C#
-  mp3_gdrive_id: 17kuxcdd6dvzj6HtsiwUbZPNH_sauVRH6
+  youtube_id: "-DfKgdhfj9U"
+  key: "C#"
+  mp3_gdrive_id: "17kuxcdd6dvzj6HtsiwUbZPNH_sauVRH6"
   covers: []
-- title: It's Fifty In The Shade
+
+- title: "It's Fifty In The Shade"
   slug: its_fifty_in_the_shade
   batch: 5
   batch_position: 4
-  youtube_id: IFakVkMbSko
-  key: Am
-  mp3_gdrive_id: 1wohKZU596pOtnuf_bEY4-fVR3ktCpupc
+  youtube_id: "IFakVkMbSko"
+  key: "Am"
+  mp3_gdrive_id: "1wohKZU596pOtnuf_bEY4-fVR3ktCpupc"
   covers: []
-- title: Make It So
+
+- title: "Make It So"
   slug: make_it_so
   batch: 5
   batch_position: 5
-  youtube_id: CKjg_4nG3Nk
-  key: Bm
-  mp3_gdrive_id: 1TGuKI2twbzqn_ic_90mDc_IJirGnAUTL
+  youtube_id: "CKjg_4nG3Nk"
+  key: "Bm"
+  mp3_gdrive_id: "1TGuKI2twbzqn_ic_90mDc_IJirGnAUTL"
   covers: []
-- title: My Nemesis And Me
+
+- title: "My Nemesis And Me"
   slug: my_nemesis_and_me
   batch: 5
   batch_position: 6
-  youtube_id: S-I3B3EOpFU
-  key: Em
-  mp3_gdrive_id: 12D1HAf1tLy24pQabg-AdxPkMfX_hIT_l
+  youtube_id: "S-I3B3EOpFU"
+  key: "Em"
+  mp3_gdrive_id: "12D1HAf1tLy24pQabg-AdxPkMfX_hIT_l"
   covers: []
-- title: My Piranha Blue
+
+- title: "My Piranha Blue"
   slug: my_piranha_blue
   batch: 5
   batch_position: 7
-  youtube_id: kPXvYWuhac8
-  key: D
-  mp3_gdrive_id: 1BZpHnq9Xw_SGu1F0rzetjWRDgTB3gBNT
+  youtube_id: "kPXvYWuhac8"
+  key: "D"
+  mp3_gdrive_id: "1BZpHnq9Xw_SGu1F0rzetjWRDgTB3gBNT"
   covers: []
-- title: One Good Ear
+
+- title: "One Good Ear"
   slug: one_good_ear
   batch: 5
   batch_position: 8
-  youtube_id: x17zS6uFMlI
-  key: D
-  mp3_gdrive_id: 1s4K6fIRJFhFte3RCm0hfFad3Sshr1hxQ
+  youtube_id: "x17zS6uFMlI"
+  key: "D"
+  mp3_gdrive_id: "1s4K6fIRJFhFte3RCm0hfFad3Sshr1hxQ"
   covers: []
-- title: One Royal Flush Before I Die
+
+- title: "One Royal Flush Before I Die"
   slug: one_royal_flush_before_i_die
   batch: 5
   batch_position: 9
-  youtube_id: bvXmoCsP4Q8
-  key: A
-  mp3_gdrive_id: 11GkjeCaVSUNplH-PKJLXSo95s_3cEibk
+  youtube_id: "bvXmoCsP4Q8"
+  key: "A"
+  mp3_gdrive_id: "11GkjeCaVSUNplH-PKJLXSo95s_3cEibk"
   covers: []
-- title: Rock Paper Scissors
+
+- title: "Rock Paper Scissors"
   slug: rock_paper_scissors
   batch: 5
   batch_position: 10
-  youtube_id: iacDWtSyy-E
-  key: Am
-  mp3_gdrive_id: 1gtWo3ODTbNGGQosKFjq4zbm7oNY1ZjmM
+  youtube_id: "iacDWtSyy-E"
+  key: "Am"
+  mp3_gdrive_id: "1gtWo3ODTbNGGQosKFjq4zbm7oNY1ZjmM"
   covers: []
-- title: All Storms Must Die
+
+- title: "All Storms Must Die"
   slug: all_storms_must_die
   batch: 6
   batch_position: 1
-  youtube_id: b5SBG1Fl6po
-  key: E
-  mp3_gdrive_id: 1Ja2GopWm2ZW_n_-FKEkblENYU_qTTMSN
+  youtube_id: "b5SBG1Fl6po"
+  key: "E"
+  mp3_gdrive_id: "1Ja2GopWm2ZW_n_-FKEkblENYU_qTTMSN"
   covers: []
-- title: Can You Hear Me Thinking of You
+
+- title: "Can You Hear Me Thinking of You"
   slug: can_you_hear_me_thinking_of_you
   batch: 6
   batch_position: 2
-  youtube_id: GbaCB6ANjak
-  key: Am
-  mp3_gdrive_id: 1BTv0nh5MIqKuE1AIoHAFrLVtcGqVqDYO
+  youtube_id: "GbaCB6ANjak"
+  key: "Am"
+  mp3_gdrive_id: "1BTv0nh5MIqKuE1AIoHAFrLVtcGqVqDYO"
   covers: []
-- title: Sinner Full of Sins
+
+- title: "Sinner Full of Sins"
   slug: sinner_full_of_sins
   batch: 6
   batch_position: 3
-  youtube_id: mErfdWyUcG4
-  key: Em
-  mp3_gdrive_id: 1Y5gKzuvPTUMAW_YpOAtQMjXZoy8xzOHx
+  youtube_id: "mErfdWyUcG4"
+  key: "Em"
+  mp3_gdrive_id: "1Y5gKzuvPTUMAW_YpOAtQMjXZoy8xzOHx"
   covers: []
-- title: So It Goes
+
+- title: "So It Goes"
   slug: so_it_goes
   batch: 6
   batch_position: 4
-  youtube_id: xNY58CHijxs
-  key: C
-  mp3_gdrive_id: 1n_UbPSfcc5ZJSJHtBBfTFGPt4fLEkaxl
+  youtube_id: "xNY58CHijxs"
+  key: "C"
+  mp3_gdrive_id: "1n_UbPSfcc5ZJSJHtBBfTFGPt4fLEkaxl"
   covers: []
-- title: The Skibbereen Breeders
+
+- title: "The Skibbereen Breeders"
   slug: the_skibbereen_breeders
   batch: 6
   batch_position: 5
-  youtube_id: gKLuc4K8HRw
-  key: G
-  mp3_gdrive_id: 1MPRqpPnO_ntfn7a5L6oL_h1Y9qdEq9Cu
+  youtube_id: "gKLuc4K8HRw"
+  key: "G"
+  mp3_gdrive_id: "1MPRqpPnO_ntfn7a5L6oL_h1Y9qdEq9Cu"
   covers: []
-- title: The Things You Want To Hear
+
+- title: "The Things You Want To Hear"
   slug: the_things_you_want_to_hear
   batch: 6
   batch_position: 6
-  youtube_id: t-KAWY23T_Y
-  key: C
-  mp3_gdrive_id: 1Db0-RKlb8dTv-FHwZ8adTcFiNPbKVYkT
+  youtube_id: "t-KAWY23T_Y"
+  key: "C"
+  mp3_gdrive_id: "1Db0-RKlb8dTv-FHwZ8adTcFiNPbKVYkT"
   covers: []
-- title: The Unanswered Question
+
+- title: "The Unanswered Question"
   slug: the_unanswered_question
   batch: 6
   batch_position: 7
-  youtube_id: P94KjybKdgU
-  key: Em
-  mp3_gdrive_id: 1IHL5dpImWx34SsKfP5fVQhGRW_I9a5Bv
+  youtube_id: "P94KjybKdgU"
+  key: "Em"
+  mp3_gdrive_id: "1IHL5dpImWx34SsKfP5fVQhGRW_I9a5Bv"
   covers: []
-- title: Thoughts Turn To Love
+
+- title: "Thoughts Turn To Love"
   slug: thoughts_turn_to_love
   batch: 6
   batch_position: 8
-  youtube_id: 2hXHoRZbD0E
-  key: C
-  mp3_gdrive_id: 1xLWD7lB2rlcdSoLSrahmdZYq_Kg76FUs
+  youtube_id: "2hXHoRZbD0E"
+  key: "C"
+  mp3_gdrive_id: "1xLWD7lB2rlcdSoLSrahmdZYq_Kg76FUs"
   covers: []
-- title: Too Far Too Late
+
+- title: "Too Far Too Late"
   slug: too_far_too_late
   batch: 6
   batch_position: 9
-  youtube_id: lw6IGXsYbPw
-  key: C
-  mp3_gdrive_id: 1y40yoD02W6Ohol3PKlAhmasjGQvT1TTo
+  youtube_id: "lw6IGXsYbPw"
+  key: "C"
+  mp3_gdrive_id: "1y40yoD02W6Ohol3PKlAhmasjGQvT1TTo"
   covers: []
-- title: Woe Is Me
+
+- title: "Woe Is Me"
   slug: woe_is_me
   batch: 6
   batch_position: 10
-  youtube_id: cqceKMSZacE
-  key: Am
-  mp3_gdrive_id: 1QPAoApqtQTXBaO9ASlLvqudfMaRWZLpN
+  youtube_id: "cqceKMSZacE"
+  key: "Am"
+  mp3_gdrive_id: "1QPAoApqtQTXBaO9ASlLvqudfMaRWZLpN"
   covers: []
-- title: Ain't No Rush On Me
+
+- title: "Ain't No Rush On Me"
   slug: aint_no_rush_on_me
   batch: 7
   batch_position: 1
-  youtube_id: AhzmQkbnxQ8
-  key: C
-  mp3_gdrive_id: 1_wPK-pUSOTNKy2-SH-xZo8TWBwN0lY43
+  youtube_id: "AhzmQkbnxQ8"
+  key: "C"
+  mp3_gdrive_id: "1_wPK-pUSOTNKy2-SH-xZo8TWBwN0lY43"
   covers: []
-- title: Cutting Loose Again
+
+- title: "Cutting Loose Again"
   slug: cutting_loose_again
   batch: 7
   batch_position: 2
-  youtube_id: HKW_G2uCTEs
-  key: Cm
-  mp3_gdrive_id: 1jU2MVjTJvXpAAVHGX3uP6sDIB6cEC22f
+  youtube_id: "HKW_G2uCTEs"
+  key: "Cm"
+  mp3_gdrive_id: "1jU2MVjTJvXpAAVHGX3uP6sDIB6cEC22f"
   covers: []
-- title: Down and Out and Blue
+
+- title: "Down and Out and Blue"
   slug: down_and_out_and_blue
   batch: 7
   batch_position: 3
-  youtube_id: QP07FGBFkv8
-  key: Bm
-  mp3_gdrive_id: 1irvvntBtomUKrHiYCBno7IpS_p9fO0U8
+  youtube_id: "QP07FGBFkv8"
+  key: "Bm"
+  mp3_gdrive_id: "1irvvntBtomUKrHiYCBno7IpS_p9fO0U8"
   covers: []
-- title: Face Into This Storm
+
+- title: "Face Into This Storm"
   slug: face_into_this_storm
   batch: 7
   batch_position: 4
-  youtube_id: RfbpA2as8MU
-  key: Bb
-  mp3_gdrive_id: 1wdBwVADN2v0gdMkhFbmgPI1OJyah-3uG
+  youtube_id: "RfbpA2as8MU"
+  key: "Bb"
+  mp3_gdrive_id: "1wdBwVADN2v0gdMkhFbmgPI1OJyah-3uG"
   covers: []
-- title: Feet To The Fire
+
+- title: "Feet To The Fire"
   slug: feet_to_the_fire
   batch: 7
   batch_position: 5
-  youtube_id: LLM1wMkal3Y
-  key: D
-  mp3_gdrive_id: 1xzl05nNKAN0BlNCwUsBWv_zxZ7iIeTtO
+  youtube_id: "LLM1wMkal3Y"
+  key: "D"
+  mp3_gdrive_id: "1xzl05nNKAN0BlNCwUsBWv_zxZ7iIeTtO"
   covers: []
-- title: How Humans Are
+
+- title: "How Humans Are"
   slug: how_humans_are
   batch: 7
   batch_position: 6
-  youtube_id: FIn_eyDf7pM
-  key: G
-  mp3_gdrive_id: 16t88YIW4GkbfDfwUWmzkS4FlxBCoj8wQ
+  youtube_id: "FIn_eyDf7pM"
+  key: "G"
+  mp3_gdrive_id: "16t88YIW4GkbfDfwUWmzkS4FlxBCoj8wQ"
   covers: []
-- title: Just Say Hi
+
+- title: "Just Say Hi"
   slug: just_say_hi
   batch: 7
   batch_position: 7
-  youtube_id: HA9K3Kba-6c
-  key: C
-  mp3_gdrive_id: 1FwydLIHRxKi_Ev5KuLSwgMFYULKq5keF
+  youtube_id: "HA9K3Kba-6c"
+  key: "C"
+  mp3_gdrive_id: "1FwydLIHRxKi_Ev5KuLSwgMFYULKq5keF"
   covers: []
-- title: Never Look Back
+
+- title: "Never Look Back"
   slug: never_look_back
   batch: 7
   batch_position: 8
-  youtube_id: Xv3-lUF_2uo
-  key: Bb
-  mp3_gdrive_id: 1K-ZU06OUgVUx0h3ZkozolWheq1h4lgki
+  youtube_id: "Xv3-lUF_2uo"
+  key: "Bb"
+  mp3_gdrive_id: "1K-ZU06OUgVUx0h3ZkozolWheq1h4lgki"
   covers: []
-- title: So Many Hours
+
+- title: "So Many Hours"
   slug: so_many_hours
   batch: 7
   batch_position: 9
-  youtube_id: ONRbiOKjcK0
-  key: Dm
-  mp3_gdrive_id: 137XXVNWO3-US1c1pjGUi8kwF1iaLN3_g
+  youtube_id: "ONRbiOKjcK0"
+  key: "Dm"
+  mp3_gdrive_id: "137XXVNWO3-US1c1pjGUi8kwF1iaLN3_g"
   covers: []
-- title: Two Fireflies Burning Bright
+
+- title: "Two Fireflies Burning Bright"
   slug: two_fireflies_burning_bright
   batch: 7
   batch_position: 10
-  youtube_id: T6kxOZzMw_c
-  key: D
-  mp3_gdrive_id: 1ImDGO-VeBFHrJF8GPBLBGoIORrU_RvED
+  youtube_id: "T6kxOZzMw_c"
+  key: "D"
+  mp3_gdrive_id: "1ImDGO-VeBFHrJF8GPBLBGoIORrU_RvED"
   covers: []
-- title: And There You Are
+
+- title: "And There You Are"
   slug: and_there_you_are
   batch: 8
   batch_position: 1
-  youtube_id: 60GSMAoOCWg
-  key: ADor
-  mp3_gdrive_id: 10Kz8RcDABM2AhJ561JxaYSngXEG48nzq
+  youtube_id: "60GSMAoOCWg"
+  key: "ADor"
+  mp3_gdrive_id: "10Kz8RcDABM2AhJ561JxaYSngXEG48nzq"
   covers: []
-- title: Five Thousand Miles From Home
+
+- title: "Five Thousand Miles From Home"
   slug: five_thousand_miles_from_home
   batch: 8
   batch_position: 2
-  youtube_id: otvD7CGQ6GU
-  key: Dm
-  mp3_gdrive_id: 1NJSMOnGx3IIIsIlnL75BUEmVPTbl0152
+  youtube_id: "otvD7CGQ6GU"
+  key: "Dm"
+  mp3_gdrive_id: "1NJSMOnGx3IIIsIlnL75BUEmVPTbl0152"
   covers: []
-- title: I Searched For Wine
+
+- title: "I Searched For Wine"
   slug: i_searched_for_wine
   batch: 8
   batch_position: 3
-  youtube_id: p3T42cBYduo
-  key: Am
-  mp3_gdrive_id: 1zAaISpMBU_GQtknSaS-jkVlAkcNj0tkR
+  youtube_id: "p3T42cBYduo"
+  key: "Am"
+  mp3_gdrive_id: "1zAaISpMBU_GQtknSaS-jkVlAkcNj0tkR"
   covers: []
-- title: I Will Arise And I Will Go
+
+- title: "I Will Arise And I Will Go"
   slug: i_will_arise_and_i_will_go
   batch: 8
   batch_position: 4
-  youtube_id: wRiUh0Sp2MY
-  key: Dm
-  mp3_gdrive_id: 1XKV7GBFssThDDP6oCIv5rlxZdAVOTvTX
+  youtube_id: "wRiUh0Sp2MY"
+  key: "Dm"
+  mp3_gdrive_id: "1XKV7GBFssThDDP6oCIv5rlxZdAVOTvTX"
   covers: []
-- title: If I Was Me
+
+- title: "If I Was Me"
   slug: if_i_was_me
   batch: 8
   batch_position: 5
-  youtube_id: KZ6tYW8VN04
-  key: Am
-  mp3_gdrive_id: 1btcx9oEBkqiU1VMH3C0VWAWh7J7wTP1P
+  youtube_id: "KZ6tYW8VN04"
+  key: "Am"
+  mp3_gdrive_id: "1btcx9oEBkqiU1VMH3C0VWAWh7J7wTP1P"
   covers: []
-- title: Makes Me Think of You
+
+- title: "Makes Me Think of You"
   slug: makes_me_think_of_you
   batch: 8
   batch_position: 6
-  youtube_id: 2x0mavqvN0I
-  key: Am
-  mp3_gdrive_id: 1AHKoXvxT-j570p5Bade8yr-mYGE7Pa_Y
+  youtube_id: "2x0mavqvN0I"
+  key: "Am"
+  mp3_gdrive_id: "1AHKoXvxT-j570p5Bade8yr-mYGE7Pa_Y"
   covers: []
-- title: Minding My Own Business All Day Long
+
+- title: "Minding My Own Business All Day Long"
   slug: minding_my_own_business_all_day_long
   batch: 8
   batch_position: 7
-  youtube_id: 0gfM5fYEPaM
-  key: E
-  mp3_gdrive_id: 14KWdPylCRWBRH2iB-eafKqJj-NHsbgmD
+  youtube_id: "0gfM5fYEPaM"
+  key: "E"
+  mp3_gdrive_id: "14KWdPylCRWBRH2iB-eafKqJj-NHsbgmD"
   covers: []
-- title: Proud To Be You
+
+- title: "Proud To Be You"
   slug: proud_to_be_you
   batch: 8
   batch_position: 8
-  youtube_id: ztPjIRdi18g
-  key: D
-  mp3_gdrive_id: 1qhuKPAnnOWuecX8xDWY_q6PCfiJadp2T
+  youtube_id: "ztPjIRdi18g"
+  key: "D"
+  mp3_gdrive_id: "1qhuKPAnnOWuecX8xDWY_q6PCfiJadp2T"
   covers: []
-- title: Trifling Little Detail
+
+- title: "Trifling Little Detail"
   slug: trifling_little_detail
   batch: 8
   batch_position: 9
-  youtube_id: ZGVbxXFvdhQ
-  key: G
-  mp3_gdrive_id: 1krN4JMnvK3enPXnaS2ws2YZciyyzcqQa
+  youtube_id: "ZGVbxXFvdhQ"
+  key: "G"
+  mp3_gdrive_id: "1krN4JMnvK3enPXnaS2ws2YZciyyzcqQa"
   covers: []
-- title: White Clouds
+
+- title: "White Clouds"
   slug: white_clouds
   batch: 8
   batch_position: 10
-  youtube_id: LkVZ9EIY6Z4
-  key: G
-  mp3_gdrive_id: 14V-93tarO-J9unMP_0WbmZ-SKTo9qzdO
+  youtube_id: "LkVZ9EIY6Z4"
+  key: "G"
+  mp3_gdrive_id: "14V-93tarO-J9unMP_0WbmZ-SKTo9qzdO"
   covers: []
-- title: Avarice my Darling
+
+- title: "Avarice my Darling"
   slug: avarice_my_darling
   batch: 9
   batch_position: 1
-  youtube_id: IoJgUuXZPGw
-  key: G
-  mp3_gdrive_id: 1ZGgPVHRzjnxm1GB6Ieq_mS6uPmXFHZnl
+  youtube_id: "IoJgUuXZPGw"
+  key: "G"
+  mp3_gdrive_id: "1ZGgPVHRzjnxm1GB6Ieq_mS6uPmXFHZnl"
   covers: []
-- title: Hazy on a Sunday Afternoon
+
+- title: "Hazy on a Sunday Afternoon"
   slug: hazy_on_a_sunday_afternoon
   batch: 9
   batch_position: 2
-  youtube_id: aJkQr2vkLSk
-  key: Cm
-  mp3_gdrive_id: 1LRwWbOJSo1Wfu41MjYSdccuQeD-T3KwI
+  youtube_id: "aJkQr2vkLSk"
+  key: "Cm"
+  mp3_gdrive_id: "1LRwWbOJSo1Wfu41MjYSdccuQeD-T3KwI"
   covers: []
-- title: If I Go
+
+- title: "If I Go"
   slug: if_i_go
   batch: 9
   batch_position: 3
-  youtube_id: fMrckYMpRWc
-  key: D
-  mp3_gdrive_id: 1avunoF0ipTof1i7psbSh7U6I3-7KmM5V
+  youtube_id: "fMrckYMpRWc"
+  key: "D"
+  mp3_gdrive_id: "1avunoF0ipTof1i7psbSh7U6I3-7KmM5V"
   covers: []
-- title: I'll Cry For You
+
+- title: "I'll Cry For You"
   slug: ill_cry_for_you
   batch: 9
   batch_position: 4
-  youtube_id: mf6hcLv0dc4
-  key: Bb
-  mp3_gdrive_id: 13t7vPKmo5ZcxKhwPq4Ck4c8d64-5sRd5
+  youtube_id: "mf6hcLv0dc4"
+  key: "Bb"
+  mp3_gdrive_id: "13t7vPKmo5ZcxKhwPq4Ck4c8d64-5sRd5"
   covers: []
-- title: Just Above The Sky
+
+- title: "Just Above The Sky"
   slug: just_above_the_sky
   batch: 9
   batch_position: 5
-  youtube_id: Hy6aW4dWzp0
-  key: E
-  mp3_gdrive_id: 1tz8CBYRm__r1UP6BG2UTl4qkdgkI4WTE
+  youtube_id: "Hy6aW4dWzp0"
+  key: "E"
+  mp3_gdrive_id: "1tz8CBYRm__r1UP6BG2UTl4qkdgkI4WTE"
   covers: []
-- title: Old Oak Tree
+
+- title: "Old Oak Tree"
   slug: old_oak_tree
   batch: 9
   batch_position: 6
-  youtube_id: 17j_1REmvg0
-  key: Dm
-  mp3_gdrive_id: 1TeVfFnABzalIAn63qJOvooSG2zzMTrDE
+  youtube_id: "17j_1REmvg0"
+  key: "Dm"
+  mp3_gdrive_id: "1TeVfFnABzalIAn63qJOvooSG2zzMTrDE"
   covers: []
-- title: Presents
+
+- title: "Presents"
   slug: presents
   batch: 9
   batch_position: 7
-  youtube_id: ffHlf3zsVuQ
-  key: Gm
-  mp3_gdrive_id: 1VOufkntKVhdNyWvchTa6eQtm_pW8ePcd
+  youtube_id: "ffHlf3zsVuQ"
+  key: "Gm"
+  mp3_gdrive_id: "1VOufkntKVhdNyWvchTa6eQtm_pW8ePcd"
   covers: []
-- title: Rise Again
+
+- title: "Rise Again"
   slug: rise_again
   batch: 9
   batch_position: 8
-  youtube_id: ZTsBR3JLK6g
-  key: Gm
-  mp3_gdrive_id: 1kdzBouIwOcNpkgtpp0tjLa_B5xBB5DVZ
+  youtube_id: "ZTsBR3JLK6g"
+  key: "Gm"
+  mp3_gdrive_id: "1kdzBouIwOcNpkgtpp0tjLa_B5xBB5DVZ"
   covers: []
-- title: Remember To Forget
+
+- title: "Remember To Forget"
   slug: remember_to_forget
   batch: 9
   batch_position: 9
-  youtube_id: IK-KsccBvlI
-  key: G
-  mp3_gdrive_id: 15SuMOvyqtEAW4oVEZj9Tsj4dWeIHuEZn
+  youtube_id: "IK-KsccBvlI"
+  key: "G"
+  mp3_gdrive_id: "15SuMOvyqtEAW4oVEZj9Tsj4dWeIHuEZn"
   covers: []
-- title: The Best Way to Love
+
+- title: "The Best Way to Love"
   slug: the_best_way_to_love
   batch: 9
   batch_position: 10
-  youtube_id: WD7Jb4tJn6E
-  key: Cm
-  mp3_gdrive_id: 1csjwLzN4aPyM3mnH8YygolFXL3QGnOCD
+  youtube_id: "WD7Jb4tJn6E"
+  key: "Cm"
+  mp3_gdrive_id: "1csjwLzN4aPyM3mnH8YygolFXL3QGnOCD"
   covers: []
