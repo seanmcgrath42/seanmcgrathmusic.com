@@ -1,0 +1,35 @@
+---
+layout: default
+title: Covers & Interpretations
+---
+
+<div class="catalog-header">
+  <h1>Covers &amp; Interpretations</h1>
+  <p class="section-intro">Other musicians recording or performing Sean's songs. All songs are released under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> — if you make a version, get in touch.</p>
+</div>
+
+{% assign songs_with_covers = site.data.songs | where_exp: "s", "s.covers.size > 0" %}
+
+{% if songs_with_covers.size > 0 %}
+  {% for song in songs_with_covers %}
+  <section class="cover-song-section">
+    <h2><a href="{{ '/songs/' | relative_url }}{{ song.slug | replace: '_', '-' }}/">{{ song.title }}</a></h2>
+    {% for cover in song.covers %}
+    <div class="cover-entry">
+      {% if cover.youtube_id and cover.youtube_id != "" %}
+      <div class="youtube-wrap">
+        <iframe src="https://www.youtube.com/embed/{{ cover.youtube_id }}"
+                title="{{ cover.artist }} — {{ song.title }}"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+      </div>
+      {% endif %}
+      <p class="cover-artist"><strong>{{ cover.artist }}</strong>{% if cover.description %} — {{ cover.description }}{% endif %}</p>
+    </div>
+    {% endfor %}
+  </section>
+  {% endfor %}
+{% else %}
+  <p class="covers-empty">No covers or interpretations have been added yet. Watch this space — all songs are free to record and perform under CC BY 4.0.</p>
+{% endif %}
