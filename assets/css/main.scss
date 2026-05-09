@@ -610,7 +610,29 @@ img { max-width: 100%; display: block; }
 
 /* About page */
 .about-body {
-  max-width: 640px;
+  max-width: 700px;
+}
+
+.about-photo-wrap {
+  float: right;
+  margin: 0 0 1.5rem 2rem;
+  width: 260px;
+}
+
+.about-photo {
+  width: 100%;
+  border-radius: 6px;
+  display: block;
+}
+
+@media (max-width: 600px) {
+  .about-photo-wrap {
+    float: none;
+    margin: 0 auto 1.5rem;
+    width: 100%;
+    max-width: 320px;
+    display: block;
+  }
 }
 
 .about-body h1 {
