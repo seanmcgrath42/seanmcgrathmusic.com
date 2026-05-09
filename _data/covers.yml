@@ -1,0 +1,32 @@
+# Covers and interpretations of Sean McGrath songs by other artists.
+# Each entry: song_title, slug (optional, links to song page if in current 90), artist, youtube_id, description
+
+- song_title: "Rock Paper Scissors"
+  slug: rock_paper_scissors
+  artist: "Lisa Kennedy, Sally Whelan & Sarah Toomey"
+  youtube_id: "8wm9p2OFCxA"
+  description: "Vocals: Lisa Kennedy, Sally Whelan, Sarah Toomey. Low Whistle: Sally Whelan. Rhythm Guitar: Joey Kennedy. Solo Guitar: Eugene Stewart. Mixing/Mastering: Joey Kennedy."
+
+- song_title: "Tears of Stone"
+  slug: tears_of_stone
+  artist: "KaRoSal"
+  youtube_id: "wQBYDpyJAJ4"
+  description: "3-part harmony arrangement. Released on KaRoSal's album 'Songs in 3 part harmony'."
+
+- song_title: "The Skibbereen Breeders"
+  slug: the_skibbereen_breeders
+  artist: "Bernadette Mulligan"
+  youtube_id: "0jTlneWAyfk"
+  description: ""
+
+- song_title: "Black Dots on Brown Linoleum"
+  slug: ""
+  artist: "Frank Fahy"
+  youtube_id: "meeRwjoEFSc"
+  description: "An interpretation by Frank Fahy."
+
+- song_title: "Smoky Grease & Alcohol"
+  slug: ""
+  artist: "Bill Geoghegan"
+  youtube_id: "O-xNHwBhMeA"
+  description: "A lovely interpretation by Bill Geoghegan."

@@ -8,26 +8,28 @@ title: Covers & Interpretations
   <p class="section-intro">Other musicians recording or performing Sean's songs. All songs are released under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> — if you make a version, get in touch.</p>
 </div>
 
-{% assign songs_with_covers = site.data.songs | where_exp: "s", "s.covers.size > 0" %}
-
-{% if songs_with_covers.size > 0 %}
-  {% for song in songs_with_covers %}
+{% if site.data.covers.size > 0 %}
+  {% for cover in site.data.covers %}
   <section class="cover-song-section">
-    <h2><a href="{{ '/songs/' | relative_url }}{{ song.slug | replace: '_', '-' }}/">{{ song.title }}</a></h2>
-    {% for cover in song.covers %}
+    <h2>
+      {% if cover.slug and cover.slug != "" %}
+        <a href="{{ '/songs/' | relative_url }}{{ cover.slug | replace: '_', '-' }}/">{{ cover.song_title }}</a>
+      {% else %}
+        {{ cover.song_title }}
+      {% endif %}
+    </h2>
     <div class="cover-entry">
       {% if cover.youtube_id and cover.youtube_id != "" %}
       <div class="youtube-wrap">
         <iframe src="https://www.youtube.com/embed/{{ cover.youtube_id }}"
-                title="{{ cover.artist }} — {{ song.title }}"
+                title="{{ cover.artist }} — {{ cover.song_title }}"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
       </div>
       {% endif %}
-      <p class="cover-artist"><strong>{{ cover.artist }}</strong>{% if cover.description %} — {{ cover.description }}{% endif %}</p>
+      <p class="cover-artist"><strong>{{ cover.artist }}</strong>{% if cover.description and cover.description != "" %} — {{ cover.description }}{% endif %}</p>
     </div>
-    {% endfor %}
   </section>
   {% endfor %}
 {% else %}
