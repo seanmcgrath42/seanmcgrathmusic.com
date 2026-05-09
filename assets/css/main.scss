@@ -103,6 +103,20 @@ img { max-width: 100%; display: block; }
 .site-nav a:hover,
 .site-nav a.active { color: var(--text); }
 
+.nav-socials {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-left: 0.5rem;
+  padding-left: 0.75rem;
+  border-left: 1px solid var(--border);
+}
+
+.nav-socials a {
+  font-size: 1rem;
+  line-height: 1;
+}
+
 /* Footer */
 .site-footer {
   border-top: 1px solid var(--border);
