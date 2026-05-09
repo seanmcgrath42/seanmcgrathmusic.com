@@ -27,6 +27,8 @@ title: Covers & Interpretations
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
       </div>
+      {% elsif cover.url and cover.url != "" %}
+      <p><a class="btn btn-outline" href="{{ cover.url }}" target="_blank" rel="noopener">{{ cover.url_label | default: "Listen" }}</a></p>
       {% endif %}
       <p class="cover-artist"><strong>{{ cover.artist }}</strong>{% if cover.description and cover.description != "" %} — {{ cover.description }}{% endif %}</p>
     </div>
