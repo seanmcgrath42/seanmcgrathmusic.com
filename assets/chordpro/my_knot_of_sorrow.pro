@@ -1,4 +1,4 @@
-{title:My Knot of Sorrow}
+{title:My Knot Of Sorrow}
 {key: Cm}
 {url:https://www.youtube.com/watch?v=TvIaCivE8i4}
 {comment:Am Capo 3 -> Cm}

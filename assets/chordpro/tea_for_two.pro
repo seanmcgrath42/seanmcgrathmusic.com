@@ -1,4 +1,4 @@
-{title:Tea for Two}
+{title:Tea For Two}
 {key:C}
 {url:https://www.youtube.com/watch?v=TKSEbNQABGg}
 {soc}

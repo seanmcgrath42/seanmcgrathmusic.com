@@ -1,4 +1,4 @@
-{title:The Best Way to Love}
+{title:The Best Way To Love}
 {key: Cm}
 {url:https://www.youtube.com/watch?v=WD7Jb4tJn6E}
 {comment: Capo 3 Am -> Cm}

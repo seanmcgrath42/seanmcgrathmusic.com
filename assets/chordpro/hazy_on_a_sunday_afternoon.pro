@@ -1,4 +1,4 @@
-{title:Hazy on a Sunday Afternoon}
+{title:Hazy On A Sunday Afternoon}
 {key: Cm}
 {url:https://www.youtube.com/watch?v=aJkQr2vkLSk}
 {comment:Capo 3 Am->Cm}

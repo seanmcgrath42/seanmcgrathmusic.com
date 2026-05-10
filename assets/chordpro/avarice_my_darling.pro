@@ -1,4 +1,4 @@
-{title:Avarice my Darling}
+{title:Avarice My Darling}
 {key:G}
 {url:https://www.youtube.com/watch?v=IoJgUuXZPGw}
 [G]The fading light thinks such [Gmaj7]happy thoughts

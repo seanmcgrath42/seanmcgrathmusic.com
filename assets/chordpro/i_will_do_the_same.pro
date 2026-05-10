@@ -1,4 +1,4 @@
-{title:I Will do the Same}
+{title:I Will Do The Same}
 {key: E}
 {url:https://www.youtube.com/watch?v=4hAX71y-2qA}
 {comment: C Capo 4->E}

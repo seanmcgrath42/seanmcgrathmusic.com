@@ -1,4 +1,4 @@
-{title:I Think of You}
+{title:I Think Of You}
 {key:Dm}
 {url:https://www.youtube.com/watch?v=5VspDKtxmCM}
 Well [Dm]I am looking back through the [A7]bottom of a [Dm]glass

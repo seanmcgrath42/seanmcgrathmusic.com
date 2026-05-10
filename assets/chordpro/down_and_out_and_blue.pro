@@ -1,4 +1,4 @@
-{title:Down and Out and Blue}
+{title:Down And Out And Blue}
 {key: Bm}
 {url:https://www.youtube.com/watch?v=QP07FGBFkv8}
 {comment:Am Capo 2 -> Bm}

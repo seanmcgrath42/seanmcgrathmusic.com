@@ -1,4 +1,4 @@
-{title:Makes Me Think of You}
+{title:Makes Me Think Of You}
 {key:Am}
 {url:https://www.youtube.com/watch?v=2x0mavqvN0I}
 The [Am]black clouds that blocks the sun (they [F]make me think of [E]you)

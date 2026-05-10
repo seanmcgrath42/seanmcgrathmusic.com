@@ -1,4 +1,4 @@
-{title:Spare the Tonic and Pour the Gin}
+{title:Spare The Tonic And Pour The Gin}
 {key:Dm}
 {url:https://www.youtube.com/watch?v=QTxeMLWa7Ek}
 

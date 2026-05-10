@@ -1,4 +1,4 @@
-{title:Can You Hear Me Thinking of You}
+{title:Can You Hear Me Thinking Of You}
 {key:Am}
 {url:https://www.youtube.com/watch?v=GbaCB6ANjak}
 I'm [Am]drowning out the [Am/G#]sadness and the [Am/G]pain in my [Am/F#]heart 

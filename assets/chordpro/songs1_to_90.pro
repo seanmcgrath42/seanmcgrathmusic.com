@@ -185,7 +185,7 @@ I hope to find you free I don't want to bother you at all
 Aphrodite baby can we be friends?
 Aphrodite baby can we be friends?{new_song}
 
-{title:Avarice my Darling}
+{title:Avarice My Darling}
 {key:G}
 {url:https://www.youtube.com/watch?v=IoJgUuXZPGw}
 [G]The fading light thinks such [Gmaj7]happy thoughts
@@ -286,7 +286,7 @@ For the want of the powder the skag the gear and the snow
 
 {new_song}
 
-{title:The Best Way to Love}
+{title:The Best Way To Love}
 {key: Cm}
 {url:https://www.youtube.com/watch?v=WD7Jb4tJn6E}
 {comment: Capo 3 Am -> Cm}
@@ -381,7 +381,7 @@ You [Am]told me a [E7]boat load of [Am]lies
 You [Am]told me a [E7]boat load of [Am]lies
 {new_song}
 
-{title:Can You Hear Me Thinking of You}
+{title:Can You Hear Me Thinking Of You}
 {key:Am}
 {url:https://www.youtube.com/watch?v=GbaCB6ANjak}
 I'm [Am]drowning out the [Am/G#]sadness and the [Am/G]pain in my [Am/F#]heart 
@@ -617,7 +617,7 @@ So I’ll hold you close until it sets you free
 I know that you would do the same for me
 {new_song}
 
-{title:Down and Out and Blue}
+{title:Down And Out And Blue}
 {key: Bm}
 {url:https://www.youtube.com/watch?v=QP07FGBFkv8}
 {comment:Am Capo 2 -> Bm}
@@ -831,7 +831,7 @@ No I'm [F]never coming [G]back
 To [C]you
 {new_song}
 
-{title:Hazy on a Sunday Afternoon}
+{title:Hazy On A Sunday Afternoon}
 {key: Cm}
 {url:https://www.youtube.com/watch?v=aJkQr2vkLSk}
 {comment:Capo 3 Am->Cm}
@@ -994,7 +994,7 @@ Yes [Dm]I should have searched [Am]bread but  instead [E] I searched for [Am]win
 Yes [Dm]I should have searched [Am]bread but  instead [E] I searched for [Am]wine[E]
 {new_song}
 
-{title:I Think of You}
+{title:I Think Of You}
 {key:Dm}
 {url:https://www.youtube.com/watch?v=5VspDKtxmCM}
 Well [Dm]I am looking back through the [A7]bottom of a [Dm]glass
@@ -1067,7 +1067,7 @@ I really hope you get to hear this song
 Some day baby you will realise 
 {new_song}
 
-{title:I Will do the Same}
+{title:I Will Do The Same}
 {key: E}
 {url:https://www.youtube.com/watch?v=4hAX71y-2qA}
 {comment: C Capo 4->E}
@@ -1433,7 +1433,7 @@ A laughing hyena that can sing you the blues
 A penny for your thoughts or what the thoughts mean
 [E]Tell me what you want and I can make it so{new_song}
 
-{title:Makes Me Think of You}
+{title:Makes Me Think Of You}
 {key:Am}
 {url:https://www.youtube.com/watch?v=2x0mavqvN0I}
 The [Am]black clouds that blocks the sun (they [F]make me think of [E]you)
@@ -1547,7 +1547,7 @@ Our love is burning bright lighting up the night
 As the hourglass runs out of sand
  {new_song}
 
-{title:My Knot of Sorrow}
+{title:My Knot Of Sorrow}
 {key: Cm}
 {url:https://www.youtube.com/watch?v=TvIaCivE8i4}
 {comment:Am Capo 3 -> Cm}
@@ -2184,7 +2184,7 @@ The highs go by so very fast
 
 {new_song}
 
-{title:Sinner Full of Sins}
+{title:Sinner Full Of Sins}
 {key:Em}
 {url:https://www.youtube.com/watch?v=mErfdWyUcG4}
 
@@ -2408,7 +2408,7 @@ The bottle slows them down but they come back around
 In every single moment I’m awake
 {new_song}
 
-{title:Spare the Tonic and Pour the Gin}
+{title:Spare The Tonic And Pour The Gin}
 {key:Dm}
 {url:https://www.youtube.com/watch?v=QTxeMLWa7Ek}
 
@@ -2482,7 +2482,7 @@ It holds me aloft and I feel safe and sound
 I’m not dreaming any more
 {new_song}
 
-{title:Tea for Two}
+{title:Tea For Two}
 {key:C}
 {url:https://www.youtube.com/watch?v=TKSEbNQABGg}
 {soc}
@@ -2509,7 +2509,7 @@ And I will make [C]tea for [Em]you in the [F]happiest of [C]lands
 
 {new_song}
 
-{title:Tears of Stone}
+{title:Tears Of Stone}
 {key:GMixo}
 {url:https://www.youtube.com/watch?v=b4_ni3HxKdM}
 
