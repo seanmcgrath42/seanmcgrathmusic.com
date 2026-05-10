@@ -4,6 +4,12 @@
 
 - song_title: "Rock Paper Scissors"
   slug: rock_paper_scissors
+  artist: "Lisa and Joey Kennedy"
+  spotify_id: "0iP8XXmzP0lnwKeVZVwvqI"
+  description: ""
+
+- song_title: "Rock Paper Scissors"
+  slug: rock_paper_scissors
   artist: "Lisa Kennedy, Sally Whelan & Sarah Toomey"
   youtube_id: "8wm9p2OFCxA"
   description: "Vocals: Lisa Kennedy, Sally Whelan, Sarah Toomey. Low Whistle: Sally Whelan. Rhythm Guitar: Joey Kennedy. Solo Guitar: Eugene Stewart. Mixing/Mastering: Joey Kennedy."
