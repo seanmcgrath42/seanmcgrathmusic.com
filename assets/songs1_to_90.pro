@@ -235,7 +235,7 @@ I'll come visit you tomorrow when nature comes to call
 I hope to find you free I don't want to bother you at all
 Aphrodite baby can we be friends?
 Aphrodite baby can we be friends?{new_song}
-{title:Avarice my Darling}
+{title:Avarice My Darling}
 {key:G}
 {url:https://www.youtube.com/watch?v=IoJgUuXZPGw}
 [G]The fading light thinks such [Gmaj7]happy thoughts
@@ -354,7 +354,7 @@ I have another cup then take my shoes for a walk
 Smell the trees and the grass and the rain
 Whenever I get to thinking that the coast is clear
 The black dog returns again{new_song}
-{title:Can You Hear Me Thinking of You}
+{title:Can You Hear Me Thinking Of You}
 {key:Am}
 {url:https://www.youtube.com/watch?v=GbaCB6ANjak}
 I'm [Am]drowning out the [Am/G#]sadness and the [Am/G]pain in my [Am/F#]heart 
@@ -573,7 +573,7 @@ Some day soon I know this too will pass
 Because darkness always fades it cannot last
 So I’ll hold you close until it sets you free
 I know that you would do the same for me{new_song}
-{title:Down and Out and Blue}
+{title:Down And Out And Blue}
 {key: Bm}
 {url:https://www.youtube.com/watch?v=QP07FGBFkv8}
 {comment:Am Capo 2 -> Bm}
@@ -774,7 +774,7 @@ So you can [C]get up [E7]off your [Am]knees because I'm
 No I'm [F]never coming [G]back
 No I'm [F]never coming [G]back
 To [C]you{new_song}
-{title:Hazy on a Sunday Afternoon}
+{title:Hazy On A Sunday Afternoon}
 {key: Cm}
 {url:https://www.youtube.com/watch?v=aJkQr2vkLSk}
 {comment:Capo 3 Am->Cm}
@@ -926,7 +926,7 @@ I don't know if that is true or not but I'm gonna find out some day
 {comment:Outro}
 Yes [Dm]I should have searched [Am]bread but  instead [E] I searched for [Am]wine[E]
 Yes [Dm]I should have searched [Am]bread but  instead [E] I searched for [Am]wine[E]{new_song}
-{title:I Think of You}
+{title:I Think Of You}
 {key:Dm}
 {url:https://www.youtube.com/watch?v=5VspDKtxmCM}
 Well [Dm]I am looking back through the [A7]bottom of a [Dm]glass
@@ -992,7 +992,7 @@ You're a one hundred and seventy pound pack of lies
 Good riddance to ya and so long
 I really hope you get to hear this song
 Some day baby you will realise{new_song}
-{title:I Will do the Same}
+{title:I Will Do The Same}
 {key: E}
 {url:https://www.youtube.com/watch?v=4hAX71y-2qA}
 {comment: C Capo 4->E}
@@ -1303,7 +1303,7 @@ A laughing hyena that can sing you the blues
 [Am]A warm bowl of rice or a cold tin of beans
 A penny for your thoughts or what the thoughts mean
 [E]Tell me what you want and I can make it so{new_song}
-{title:Makes Me Think of You}
+{title:Makes Me Think Of You}
 {key:Am}
 {url:https://www.youtube.com/watch?v=2x0mavqvN0I}
 The [Am]black clouds that blocks the sun (they [F]make me think of [E]you)
@@ -1409,7 +1409,7 @@ That was all so many moons ago
 And here we are today still hand in hand
 Our love is burning bright lighting up the night
 As the hourglass runs out of sand{new_song}
-{title:My Knot of Sorrow}
+{title:My Knot Of Sorrow}
 {key: Cm}
 {url:https://www.youtube.com/watch?v=TvIaCivE8i4}
 {comment:Am Capo 3 -> Cm}
@@ -1942,7 +1942,7 @@ Yes [Am]if I was a mountain and if you were a rock
 I would be[C]come a pebble and then sit on the top
 Of the very [G]highest peak of your mountain so high
 And I'd [E]help you to reach for the sky{new_song}
-{title:Sinner Full of Sins}
+{title:Sinner Full Of Sins}
 {key:Em}
 {url:https://www.youtube.com/watch?v=mErfdWyUcG4}
 
@@ -2121,7 +2121,7 @@ My head’s an echo chamber of your two final words
 Two small words that I just cannot shake
 The bottle slows them down but they come back around
 In every single moment I’m awake{new_song}
-{title:Spare the Tonic and Pour the Gin}
+{title:Spare The Tonic And Pour The Gin}
 {key:Dm}
 {url:https://www.youtube.com/watch?v=QTxeMLWa7Ek}
 
@@ -2190,7 +2190,7 @@ I wake into an altered state of knowing
 I find the solid ground I call the floor
 It holds me aloft and I feel safe and sound
 I’m not dreaming any more{new_song}
-{title:Tea for Two}
+{title:Tea For Two}
 {key:C}
 {url:https://www.youtube.com/watch?v=TKSEbNQABGg}
 {soc}
@@ -2214,7 +2214,7 @@ As the years go [Em]by the [F]pain will get [C]less
 Framed photographs of [Em]you I will [F]hold to my [C]chest
 When the day [Em]comes and my [F]body/soul [G]disbands
 And I will make [C]tea for [Em]you in the [F]happiest of [C]lands{new_song}
-{title:Tears of Stone}
+{title:Tears Of Stone}
 {key:GMixo}
 {url:https://www.youtube.com/watch?v=b4_ni3HxKdM}
 
@@ -2239,7 +2239,7 @@ Please take me [F]ho[C][G]me searching for [F]ho[C][G]me
 [FMaj7]Heavily you sway from side to [C]side purpose in[G]side you grows [GSus4][G]
 [FMaj7]Turning landward with your [C]gaze [FMaj7]the fire inside you has re[C]turned
 [FMaj7]You salty eyes are all [C]ablaze but you [G]refuse to burn[GSus4][G]{new_song}
-{title:The Best Way to Love}
+{title:The Best Way To Love}
 {key: Cm}
 {url:https://www.youtube.com/watch?v=WD7Jb4tJn6E}
 {comment: Capo 3 Am -> Cm}
