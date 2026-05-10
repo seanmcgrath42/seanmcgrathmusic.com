@@ -31,7 +31,7 @@ title: Covers & Interpretations
       <div class="bandlab-wrap">
         <iframe src="https://www.bandlab.com/embed/?id={{ cover.bandlab_id }}"
                 title="{{ cover.artist }} — {{ cover.song_title }}"
-                width="100%" height="350" frameborder="0" allowfullscreen></iframe>
+                width="100%" height="202" frameborder="0" allowfullscreen></iframe>
       </div>
       {% elsif cover.url and cover.url != "" %}
       <p><a class="btn btn-outline" href="{{ cover.url }}" target="_blank" rel="noopener">{{ cover.url_label | default: "Listen" }}</a></p>
