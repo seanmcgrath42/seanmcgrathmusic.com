@@ -5,23 +5,41 @@ title: Virtual Band Versions
 
 <div class="catalog-header">
   <h1>Virtual Band Versions</h1>
-  <p class="section-intro">40 of my songs performed by a virtual band called <strong>The Persisters</strong>.</p>
+  <p class="section-intro">40 of my songs performed by a virtual band called <strong>The Persisters</strong>. Click any thumbnail to play.</p>
 </div>
 
-{% for entry in site.data.virtual_band %}
-<section class="cover-song-section">
-  <h2>
-    <a href="{{ '/songs/' | relative_url }}{{ entry.slug | replace: '_', '-' }}/">{{ entry.song_title }}</a>
-  </h2>
-  <div class="cover-entry">
-    <div class="youtube-wrap">
-      <iframe src="https://www.youtube.com/embed/{{ entry.youtube_id }}"
-              title="The Persisters — {{ entry.song_title }}"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen></iframe>
+<div class="vb-grid">
+  {% for entry in site.data.virtual_band %}
+  <div class="vb-card">
+    <div class="vb-thumb" data-id="{{ entry.youtube_id }}">
+      <img src="https://img.youtube.com/vi/{{ entry.youtube_id }}/hqdefault.jpg"
+           alt="{{ entry.song_title }}"
+           loading="lazy">
+      <div class="vb-play">
+        <svg viewBox="0 0 68 48" xmlns="http://www.w3.org/2000/svg">
+          <path d="M66.5 7.7a8.5 8.5 0 0 0-6-6C56 0 34 0 34 0S12 0 7.5 1.7a8.5 8.5 0 0 0-6 6C0 14.3 0 24 0 24s0 9.7 1.5 16.3a8.5 8.5 0 0 0 6 6C12 48 34 48 34 48s22 0 26.5-1.7a8.5 8.5 0 0 0 6-6C68 33.7 68 24 68 24s0-9.7-1.5-16.3z" fill="rgba(0,0,0,0.65)"/>
+          <path d="M27 34l18-10-18-10v20z" fill="#fff"/>
+        </svg>
+      </div>
     </div>
-    <p class="cover-artist"><strong>The Persisters</strong></p>
+    <p class="vb-title">
+      <a href="{{ '/songs/' | relative_url }}{{ entry.slug | replace: '_', '-' }}/">{{ entry.song_title }}</a>
+    </p>
   </div>
-</section>
-{% endfor %}
+  {% endfor %}
+</div>
+
+<script>
+document.querySelectorAll('.vb-thumb').forEach(function(thumb) {
+  thumb.addEventListener('click', function() {
+    var id = this.dataset.id;
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube.com/embed/' + id + '?autoplay=1';
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+    iframe.allowFullscreen = true;
+    this.innerHTML = '';
+    this.appendChild(iframe);
+    this.style.cursor = 'default';
+  });
+});
+</script>
