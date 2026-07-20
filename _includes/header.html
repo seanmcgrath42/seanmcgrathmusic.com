@@ -4,6 +4,7 @@
     <nav class="site-nav">
       <a href="{{ '/songs/' | relative_url }}" {% if page.url contains '/songs' %}class="active"{% endif %}>Songs</a>
       <a href="{{ '/covers/' | relative_url }}" {% if page.url contains '/covers' %}class="active"{% endif %}>Covers/Interpretations</a>
+      <a href="{{ '/virtual-band/' | relative_url }}" {% if page.url contains '/virtual-band' %}class="active"{% endif %}>Virtual Band Versions</a>
       <a href="{{ '/gigs/' | relative_url }}" {% if page.url contains '/gigs' %}class="active"{% endif %}>Upcoming Gigs</a>
       <a href="{{ '/poetry/' | relative_url }}" {% if page.url contains '/poetry' %}class="active"{% endif %}>Poetry</a>
       <a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
