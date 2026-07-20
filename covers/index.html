@@ -20,12 +20,16 @@ title: Covers & Interpretations
     </h2>
     <div class="cover-entry">
       {% if cover.youtube_id and cover.youtube_id != "" %}
-      <div class="youtube-wrap">
-        <iframe src="https://www.youtube.com/embed/{{ cover.youtube_id }}"
-                title="{{ cover.artist }} — {{ cover.song_title }}"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
+      <div class="vb-thumb" data-id="{{ cover.youtube_id }}" style="max-width:560px;">
+        <img src="https://img.youtube.com/vi/{{ cover.youtube_id }}/hqdefault.jpg"
+             alt="{{ cover.artist }} — {{ cover.song_title }}"
+             loading="lazy">
+        <div class="vb-play">
+          <svg viewBox="0 0 68 48" xmlns="http://www.w3.org/2000/svg">
+            <path d="M66.5 7.7a8.5 8.5 0 0 0-6-6C56 0 34 0 34 0S12 0 7.5 1.7a8.5 8.5 0 0 0-6 6C0 14.3 0 24 0 24s0 9.7 1.5 16.3a8.5 8.5 0 0 0 6 6C12 48 34 48 34 48s22 0 26.5-1.7a8.5 8.5 0 0 0 6-6C68 33.7 68 24 68 24s0-9.7-1.5-16.3z" fill="rgba(0,0,0,0.65)"/>
+            <path d="M27 34l18-10-18-10v20z" fill="#fff"/>
+          </svg>
+        </div>
       </div>
       {% elsif cover.spotify_id and cover.spotify_id != "" %}
       <div class="spotify-wrap">
@@ -51,3 +55,18 @@ title: Covers & Interpretations
 {% else %}
   <p class="covers-empty">No covers or interpretations have been added yet. Watch this space — all songs are free to record and perform under CC BY 4.0.</p>
 {% endif %}
+
+<script>
+document.querySelectorAll('.vb-thumb').forEach(function(thumb) {
+  thumb.addEventListener('click', function() {
+    var id = this.dataset.id;
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube.com/embed/' + id + '?autoplay=1';
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+    iframe.allowFullscreen = true;
+    this.innerHTML = '';
+    this.appendChild(iframe);
+    this.style.cursor = 'default';
+  });
+});
+</script>
