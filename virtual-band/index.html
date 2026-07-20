@@ -5,6 +5,23 @@ title: Virtual Band Versions
 
 <div class="catalog-header">
   <h1>Virtual Band Versions</h1>
+  <p class="section-intro">40 of my songs performed by a virtual band called <strong>The Persisters</strong>.</p>
 </div>
 
-<p>Coming soon.</p>
+{% for entry in site.data.virtual_band %}
+<section class="cover-song-section">
+  <h2>
+    <a href="{{ '/songs/' | relative_url }}{{ entry.slug | replace: '_', '-' }}/">{{ entry.song_title }}</a>
+  </h2>
+  <div class="cover-entry">
+    <div class="youtube-wrap">
+      <iframe src="https://www.youtube.com/embed/{{ entry.youtube_id }}"
+              title="The Persisters — {{ entry.song_title }}"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen></iframe>
+    </div>
+    <p class="cover-artist"><strong>The Persisters</strong></p>
+  </div>
+</section>
+{% endfor %}
