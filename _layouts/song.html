@@ -15,7 +15,7 @@
         <header class="song-header">
           <h1>{{ s.title }}</h1>
           <p class="song-meta">
-            <a href="{{ '/songs/' | relative_url }}#batch-{{ s.batch }}">Batch {{ s.batch }}</a>
+            <a href="{{ '/songs_and_poems/' | relative_url }}#batch-{{ s.batch }}">Batch {{ s.batch }}</a>
             &middot; Song {{ s.batch_position }}
             {% if s.key and s.key != "" %}&middot; Key: <strong>{{ s.key }}</strong>{% endif %}
           </p>
@@ -111,7 +111,7 @@
         {% if current_index and current_index > 0 %}
           {% assign prev_index = current_index | minus: 1 %}
           {% assign prev_song = all_songs[prev_index] %}
-          <a class="song-nav-prev" href="{{ '/songs/' | relative_url }}{{ prev_song.slug | replace: '_', '-' }}/">&larr; {{ prev_song.title }}</a>
+          <a class="song-nav-prev" href="{{ '/songs_and_poems/' | relative_url }}{{ prev_song.slug | replace: '_', '-' }}/">&larr; {{ prev_song.title }}</a>
         {% else %}
           <span></span>
         {% endif %}
@@ -119,7 +119,7 @@
           {% assign next_index = current_index | plus: 1 %}
           {% assign next_song = all_songs[next_index] %}
           {% if next_song %}
-          <a class="song-nav-next" href="{{ '/songs/' | relative_url }}{{ next_song.slug | replace: '_', '-' }}/">{{ next_song.title }} &rarr;</a>
+          <a class="song-nav-next" href="{{ '/songs_and_poems/' | relative_url }}{{ next_song.slug | replace: '_', '-' }}/">{{ next_song.title }} &rarr;</a>
           {% endif %}
         {% endif %}
       </nav>

@@ -13,7 +13,7 @@ title: Covers & Interpretations
   <section class="cover-song-section">
     <h2>
       {% if cover.slug and cover.slug != "" %}
-        <a href="{{ '/songs/' | relative_url }}{{ cover.slug | replace: '_', '-' }}/">{{ cover.song_title }}</a>
+        <a href="{{ '/songs_and_poems/' | relative_url }}{{ cover.slug | replace: '_', '-' }}/">{{ cover.song_title }}</a>
       {% else %}
         {{ cover.song_title }}
       {% endif %}

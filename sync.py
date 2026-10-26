@@ -25,7 +25,7 @@ from pathlib import Path
 MASTER        = Path("../smg_songbook/chordpro")
 SITE_CHORDPRO = Path("assets/chordpro")
 SONGS_DATA    = Path("_data/songs.yml")
-SONGS_DIR     = Path("_songs")
+SONGS_DIR     = Path("_songs_and_poems")
 COMBINED_PRO  = Path("assets/songs1_to_120.pro")
 
 

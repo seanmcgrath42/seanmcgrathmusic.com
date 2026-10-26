@@ -7,14 +7,14 @@ github_username: seanmcgrath42
 youtube_handle: "@seanmcgrathmusic"
 
 collections:
-  songs:
+  songs_and_poems:
     output: true
-    permalink: /songs/:name/
+    permalink: /songs_and_poems/:name/
 
 defaults:
   - scope:
       path: ""
-      type: songs
+      type: songs_and_poems
     values:
       layout: song
 

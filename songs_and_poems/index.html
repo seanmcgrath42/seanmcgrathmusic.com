@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Songs
+title: Songs/Poems
 ---
 
 <div class="catalog-header">
-  <h1>Songs</h1>
+  <h1>Songs/Poems</h1>
 </div>
 
 <div class="browse-toggle">
@@ -23,7 +23,7 @@ title: Songs
       <ul class="song-list">
         {% for song in batch_songs %}
         <li>
-          <a href="{{ '/songs/' | relative_url }}{{ song.slug | replace: '_', '-' }}/">
+          <a href="{{ '/songs_and_poems/' | relative_url }}{{ song.slug | replace: '_', '-' }}/">
             {{ song.title }}
           </a>
         </li>
@@ -40,7 +40,7 @@ title: Songs
   <ul class="alpha-list">
     {% for song in alpha_songs %}
     <li>
-      <a href="{{ '/songs/' | relative_url }}{{ song.slug | replace: '_', '-' }}/">{{ song.title }}</a>
+      <a href="{{ '/songs_and_poems/' | relative_url }}{{ song.slug | replace: '_', '-' }}/">{{ song.title }}</a>
     </li>
     {% endfor %}
   </ul>
