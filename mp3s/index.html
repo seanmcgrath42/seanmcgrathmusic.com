@@ -14,7 +14,7 @@ title: MP3 Downloads
   <h2 class="batch-heading">Full Collection</h2>
   <div class="downloads">
     {% if zips.all_gdrive_id and zips.all_gdrive_id != "" %}
-    <a class="btn" href="https://drive.google.com/uc?export=download&id={{ zips.all_gdrive_id }}" download>&#8659; All 90 Songs (ZIP)</a>
+    <a class="btn" href="https://drive.google.com/uc?export=download&id={{ zips.all_gdrive_id }}" download>&#8659; All 120 Songs/Poems (ZIP)</a>
     {% endif %}
   </div>
 </section>
@@ -34,7 +34,7 @@ title: MP3 Downloads
   <h2 class="batch-heading">Individual Songs</h2>
   <p class="section-intro">Individual MP3 downloads are also available on each song page.</p>
   {% assign sorted = site.data.songs | sort: "batch_position" | sort: "batch" %}
-  {% for batch_num in (1..9) %}
+  {% for batch_num in (1..12) %}
     {% assign batch_songs = sorted | where: "batch", batch_num %}
     {% if batch_songs.size > 0 %}
     <div class="batch-group">
