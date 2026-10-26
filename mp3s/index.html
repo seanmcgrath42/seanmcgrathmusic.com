@@ -32,7 +32,7 @@ title: MP3 Downloads
 
 <section class="mp3-section">
   <h2 class="batch-heading">Individual Songs</h2>
-  <p class="section-intro">Individual MP3 downloads are also available on each song page.</p>
+  <p class="section-intro">Individual MP3 downloads are also available on each song page. Contact me if you would like wav files or stems.</p>
   {% assign sorted = site.data.songs | sort: "batch_position" | sort: "batch" %}
   {% for batch_num in (1..12) %}
     {% assign batch_songs = sorted | where: "batch", batch_num %}
