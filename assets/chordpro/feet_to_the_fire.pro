@@ -1,7 +1,7 @@
 {title:Feet To The Fire}
-{key: D}
-{url:https://www.youtube.com/watch?v=LLM1wMkal3Y}
-{comment: Capo 2 C->D}
+{key:D}
+Youtube: https://www.youtube.com/watch?v=LLM1wMkal3Y
+{comment:Capo 2 C->D}
 
 You've got my [C]feet to the fire you keep a [E7]grindstone at my nose
 [Am]You don't look too happy that's [F]my fault I [F#dim]suppose

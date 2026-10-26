@@ -1,7 +1,7 @@
 {title:The Second Time Around}
 {key:G}
-{url:https://www.youtube.com/watch?v=_usj14eld8c}
-{comment: Capo 5 -> C}
+Youtube: https://www.youtube.com/watch?v=_usj14eld8c
+{comment:Capo 5 -> C}
 
 [G]There is a [C]rumour going [G]around it's spreading [C]fast around the [G]town
 They say that [C]you are coming [G]home[C][G]

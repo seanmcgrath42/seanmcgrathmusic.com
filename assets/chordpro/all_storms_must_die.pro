@@ -1,6 +1,6 @@
 {title:All Storms Must Die}
-{key: E}
-{url:https://www.youtube.com/watch?v=b5SBG1Fl6po}
+{key:E}
+Youtube: https://www.youtube.com/watch?v=b5SBG1Fl6po
 {comment:C Capo 4 -> E}
  
 [C]I bought a coffee and [Em]you bought a bagel 
@@ -44,3 +44,7 @@ The [Am]ghosts gather round to [Em]scare it to death
 But it is [F]stubborn and refuses to [G]cry
 [F]Now we both need to go because [E]both of us [Am]know
 That [F]all [G]storms must [C]die[G]
+Yes the [Am]ghosts gather round to [Em]scare it to death
+But it is [F]stubborn and refuses to [G]cry
+[F]Now we both need to go because [E]both of us [Am]know
+That [F]all [G]storms must [C]die

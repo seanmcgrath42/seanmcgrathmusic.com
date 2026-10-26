@@ -1,6 +1,7 @@
 {title:Trifling Little Detail}
 {key:G}
-{url:https://www.youtube.com/watch?v=ZGVbxXFvdhQ}
+Youtube: https://www.youtube.com/watch?v=ZGVbxXFvdhQ
+
 [G]I see you face in the [E7]morning light [Am]shining like the [D7]brightest star
 [G]We trade glances [E7]left and right. [Am]Love so near and [D7]yet so far
 [Cmaj7]How I adore your [Bm7]photograph [C]hanging on my bedroom [G]wall
@@ -16,8 +17,7 @@ I told my dog I had a new lover that he needed to meet
 He had no choice but to fall for you and answer your call
 Does the fact that you've never met really matter at all?
 
-{outro}
+{comment:outro}
 [Cmaj7]How I adore your [Bm7]photograph  [C]hanging on my bedroom [G]wall
 [Cmaj7]Does the fact that we've [Bm7]never met really [Am7]mat[D]ter at [G6]all?
-{outro}
 

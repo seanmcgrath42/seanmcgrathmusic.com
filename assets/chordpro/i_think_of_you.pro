@@ -1,6 +1,7 @@
 {title:I Think Of You}
 {key:Dm}
-{url:https://www.youtube.com/watch?v=5VspDKtxmCM}
+Youtube: https://www.youtube.com/watch?v=5VspDKtxmCM
+
 Well [Dm]I am looking back through the [A7]bottom of a [Dm]glass
 I'm remembering much too [A7]slow I'm drinking [Dm]fast
 I [C]know you are in there somewhere

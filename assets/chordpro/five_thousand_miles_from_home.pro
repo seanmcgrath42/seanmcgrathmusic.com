@@ -1,6 +1,8 @@
 {title:Five Thousand Miles From Home}
-{key:Dm}
-{url:https://www.youtube.com/watch?v=otvD7CGQ6GU}
+{key:Em}
+Youtube: https://www.youtube.com/watch?v=otvD7CGQ6GU
+{comment:Dm Capo 2 -> Em}
+
 [Dm]I can talk to all my demons in [Am]any place I choose
 [E7]They will always answer when I [Am]call
 Of [Dm]all the places on this earth to [Am]choose to speak with them

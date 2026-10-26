@@ -1,6 +1,6 @@
 {title:Spare The Tonic And Pour The Gin}
 {key:Dm}
-{url:https://www.youtube.com/watch?v=QTxeMLWa7Ek}
+Youtube: https://www.youtube.com/watch?v=QTxeMLWa7Ek
 
 [Dm]Spare the tonic and pour the gin
 [Am]You have no idea what shape I am in[Gm]

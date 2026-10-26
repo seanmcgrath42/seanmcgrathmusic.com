@@ -1,6 +1,7 @@
 {title:Makes Me Think Of You}
 {key:Am}
-{url:https://www.youtube.com/watch?v=2x0mavqvN0I}
+Youtube: https://www.youtube.com/watch?v=2x0mavqvN0I
+
 The [Am]black clouds that blocks the sun (they [F]make me think of [E]you)
 The [Am]cold air that shocks my lungs (it [F]makes me think of [E]you)
 [Am]Numbers that just don't add up (they [F]make me think of [E]you)

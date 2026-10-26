@@ -1,6 +1,7 @@
 {title:The Things You Want To Hear}
 {key:C}
-{url:https://www.youtube.com/watch?v=t-KAWY23T_Y}
+Youtube: https://www.youtube.com/watch?v=t-KAWY23T_Y
+
 [C]Paint me your picture of a [E]life of bliss
 And I'll [Am]sing you a song about a [G#]lovers [G]kiss
 [C]Whisper sweet nothings [E]in my ear
@@ -24,7 +25,7 @@ You can touch any thing you want but do not make a sound
 The future is so far away but I am standing here
 
 
-{Comment:Outro}
+{comment:Outro}
 I'll [Am]tell you the things that you [G#]want to [G]hear
 From [C]me from [E]me 
 I'll [Am]tell you the things that you [G#]want to [G]hear

@@ -1,6 +1,6 @@
 {title:My Knot Of Sorrow}
-{key: Cm}
-{url:https://www.youtube.com/watch?v=TvIaCivE8i4}
+{key:Cm}
+Youtube: https://www.youtube.com/watch?v=TvIaCivE8i4
 {comment:Am Capo 3 -> Cm}
 
 [Am]Hands held across the table watching [G]time

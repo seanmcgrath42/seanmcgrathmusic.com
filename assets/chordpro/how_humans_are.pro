@@ -1,7 +1,7 @@
 {title:How Humans Are}
 {key:G}
-{url:https://www.youtube.com/watch?v=FIn_eyDf7pM}
-{comment: G Capo 5 -> C}
+Youtube: https://www.youtube.com/watch?v=FIn_eyDf7pM
+{comment:G Capo 5 -> C}
 
 [G]When the roof caves in on circumstance and the [D7/F#]fireflies fade away
 And the [Em]empty box of nothing much [C]explodes anyway
@@ -19,7 +19,7 @@ Perhaps we will fall in love and I'll cry when it ends
 Perhaps I'll wake up in a world where nothing can go wrong
 But then I remember I am human and that this is just a song
 
-{comment: Outro}
+{comment:Outro}
 We [G]love we [D7/F#]cry
 [Em]Without love  we [C]die
 We [G]love we [D7/F#]cry

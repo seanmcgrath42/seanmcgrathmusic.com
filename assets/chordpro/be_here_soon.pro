@@ -1,9 +1,9 @@
 {title:Be Here Soon}
-{key: G}
-{url:https://www.youtube.com/watch?v=Cyh2BKPQ57Y}
-{comment: G Capo 2}
+{key:G}
+Youtube: https://www.youtube.com/watch?v=Cyh2BKPQ57Y
+{comment:G Capo 2}
 
-[G]The post in the hall is piled up so high
+[G]The post in the hall it is piled up so high
 The latest notice to quit can be read from the sky
 Through the [C]hole in the roof that welcomes the rain to come [G]in
 The flies in the kitchen they are hosting a ball
@@ -14,8 +14,8 @@ That [C]might have looked tasty maybe five days a[G]go
 Her [D]thoughts they are all full of [C]needles
 Her [D]dreams they are all full of [C]spoons
 And [D]she spends all her days trying to [C]fly far away
-From the pain that will be here [G]soon
-[C]It will be here [G]soon
+From the pain that will be here [G]soon[C]
+It will be here [G]soon[C]
 [C]It will be here [G]soon
 {eoc}
 

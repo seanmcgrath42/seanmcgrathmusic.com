@@ -1,11 +1,10 @@
 {title:If I Was Me}
 {key:Am}
-{url:https://www.youtube.com/watch?v=KZ6tYW8VN04}
-[F][E7][Am]
-[F][E7][Am][E7]
+Youtube: https://www.youtube.com/watch?v=KZ6tYW8VN04
+{comment:Am Capo 3 -> Cm}
 
 [Am]Your voice sounds like a forest fire screaming at the sun
-My eyes are just too dark to [E7]see
+My [C]eyes are just too dark to [E7]see
 That [Am]face in the mirror that is calling out my name
 Would it [F]love you if [E7]I was [Am]me?
 Would it [F]love [E7]you if I was [Am]me[E7]

@@ -1,7 +1,8 @@
 {title:High On Life}
-{key: F mixo}
-{url:https://www.youtube.com/watch?v=kYiYAgDCWZs}
+{key:F mixo}
+Youtube: https://www.youtube.com/watch?v=kYiYAgDCWZs
 {comment:Dmixo capo 3->F mixo}
+
 [D]Take that old opinion about your past and [C]put it in a blender with [G]hope
 You [D]might be surprised at what you see it [C]just might help you to [G]cope
 [D]Think about the times when love came rushing [C]in to your lonely [G]heart

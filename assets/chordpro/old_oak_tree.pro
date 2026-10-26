@@ -1,26 +1,30 @@
 {title:Old Oak Tree}
 {key:Dm}
-{url:https://www.youtube.com/watch?v=17j_1REmvg0}
+Youtube: https://www.youtube.com/watch?v=17j_1REmvg0
+
 [Dm]
 {soc}
 Under the shade of this old oak tree
 I'll sit right here till my song is done
 Under the shade of this old oak tree
-I'll sit right here till my song is done
-I'll sit right here till my song is done
+I'll sit right [C]here till my song is [Dm]done
+I'll sit right [C]here till my song is [Dm]done
 {eoc}
 
 I will abide and I will prevail
 On stormy waters I am bound to sail
 Under the shade of this old oak tree
 None of my troubles can bother me
+No none of my troubles can bother me
 
 I am strong I'm too strong to fear
 The stormy waters that are drawing near
 Under the shade of this old oak tree
 None of my troubles can bother me
+No none of my troubles can bother me
 
 I know my future I've seen the sign
 I may stumble but I'll be just fine
 Under the shade of this old oak tree
 None of my troubles can bother me
+No none of my troubles can bother me

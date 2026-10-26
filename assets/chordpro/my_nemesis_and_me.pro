@@ -1,7 +1,7 @@
 {title:My Nemesis And Me}
 {key:Em}
-{url:https://www.youtube.com/watch?v=S-I3B3EOpFU}
-{comment: Em Capo 2 -> F#m}
+Youtube: https://www.youtube.com/watch?v=S-I3B3EOpFU
+{comment:Em Capo 2 -> F#m}
 
 [Em]My predisposition is a terrible affliction. I'm in [F]love with a razor blade
 [Em]She cuts me so fine my blood flows like wine the [F]finest that love's ever made

@@ -1,6 +1,7 @@
 {title:So Much Faster Now}
 {key:E}
-{url:https://www.youtube.com/watch?v=2zelngqL16A}
+Youtube: https://www.youtube.com/watch?v=2zelngqL16A
+
 {soc}
 [E]You can never catch me [A]no sir no way no [E]how (no how)
 [A]You can never catch me No sir no way no [E]how (no how)

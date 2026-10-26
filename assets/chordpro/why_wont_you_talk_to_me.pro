@@ -1,7 +1,8 @@
 {title:Why Won't You Talk To Me?}
-{key: Bb}
-{url:https://www.youtube.com/watch?v=vWR4vrDSLpU}
+{key:Bb}
+Youtube: https://www.youtube.com/watch?v=vWR4vrDSLpU
 {comment:G Capo 3->Bb}
+
 [G]All I ever wanted from [C]you was a [G]smile
 But all you seem to do is [D]cry
 To[C]day is the [G]day I pack [C]my fears a[G]way

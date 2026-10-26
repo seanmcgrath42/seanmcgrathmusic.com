@@ -12,7 +12,7 @@ What it does:
   3. Rewrites _data/songs.yml — preserving youtube_id, mp3_gdrive_id, and covers
   4. Copies all .pro files to assets/chordpro/
   5. Creates _songs/[slug].md stubs for any NEW songs (never overwrites existing ones)
-  6. Regenerates assets/songs1_to_90.pro — all songs in alphabetical order
+  6. Regenerates assets/songs1_to_120.pro — all songs in alphabetical order
 
 What it never touches:
   - The body of any _songs/*.md file (that's where you write the story)
@@ -26,7 +26,7 @@ MASTER        = Path("../smg_songbook/chordpro")
 SITE_CHORDPRO = Path("assets/chordpro")
 SONGS_DATA    = Path("_data/songs.yml")
 SONGS_DIR     = Path("_songs")
-COMBINED_PRO  = Path("assets/songs1_to_90.pro")
+COMBINED_PRO  = Path("assets/songs1_to_120.pro")
 
 
 # ---------------------------------------------------------------------------
@@ -204,7 +204,7 @@ def main() -> None:
         if pro_path.exists():
             parts.append(pro_path.read_text(encoding="utf-8").rstrip())
     COMBINED_PRO.write_text("{new_song}\n".join(parts), encoding="utf-8")
-    print(f"  assets/songs1_to_90.pro — regenerated ({len(parts)} songs, alphabetical).")
+    print(f"  assets/songs1_to_120.pro — regenerated ({len(parts)} songs, alphabetical).")
 
     print("Sync complete.")
 

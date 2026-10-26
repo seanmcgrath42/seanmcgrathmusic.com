@@ -1,7 +1,8 @@
 {title:No Need To Hide}
-{key: Bb}
-{url:https://www.youtube.com/watch?v=gDVXVI_2pT8}
-{comment: capo 3 -> Bb}
+{key:Bb}
+Youtube: https://www.youtube.com/watch?v=gDVXVI_2pT8
+{comment:capo 3 -> Bb}
+
 The [D]whispers of the embers can be [C]heard above the darkest din of [G]night
 The [D]pictures in the wood-lit fire are [C]painted a thousand miles [G]above
 A [Am]journey does not start until the [C]time has come to head on [G]home

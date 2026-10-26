@@ -1,7 +1,8 @@
 {title:Hazy On A Sunday Afternoon}
-{key: Cm}
-{url:https://www.youtube.com/watch?v=aJkQr2vkLSk}
+{key:Cm}
+Youtube: https://www.youtube.com/watch?v=aJkQr2vkLSk
 {comment:Capo 3 Am->Cm}
+
 [Am]Woken up by the noon day sun
 [Dm]I can't yet speak to anyone
 [Am]I hope this coffee shot will hit home [E7]soon

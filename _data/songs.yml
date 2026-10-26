@@ -600,7 +600,7 @@
   batch: 7
   batch_position: 7
   youtube_id: "HA9K3Kba-6c"
-  key: "C"
+  key: "D"
   mp3_gdrive_id: "1FwydLIHRxKi_Ev5KuLSwgMFYULKq5keF"
   covers: []
 
@@ -636,7 +636,7 @@
   batch: 8
   batch_position: 1
   youtube_id: "60GSMAoOCWg"
-  key: "ADor"
+  key: "DDor"
   mp3_gdrive_id: "10Kz8RcDABM2AhJ561JxaYSngXEG48nzq"
   covers: []
 
@@ -645,7 +645,7 @@
   batch: 8
   batch_position: 2
   youtube_id: "otvD7CGQ6GU"
-  key: "Dm"
+  key: "Em"
   mp3_gdrive_id: "1NJSMOnGx3IIIsIlnL75BUEmVPTbl0152"
   covers: []
 
@@ -663,7 +663,7 @@
   batch: 8
   batch_position: 4
   youtube_id: "wRiUh0Sp2MY"
-  key: "Dm"
+  key: "Em"
   mp3_gdrive_id: "1XKV7GBFssThDDP6oCIv5rlxZdAVOTvTX"
   covers: []
 
@@ -809,4 +809,274 @@
   youtube_id: "WD7Jb4tJn6E"
   key: "Cm"
   mp3_gdrive_id: "1csjwLzN4aPyM3mnH8YygolFXL3QGnOCD"
+  covers: []
+
+- title: "All The Gods"
+  slug: all_the_gods
+  batch: 10
+  batch_position: 1
+  youtube_id: ""
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "All The Things"
+  slug: all_the_things
+  batch: 10
+  batch_position: 2
+  youtube_id: ""
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Big Mountain"
+  slug: big_mountain
+  batch: 10
+  batch_position: 3
+  youtube_id: ""
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "I'll Remember You"
+  slug: ill_remember_you
+  batch: 10
+  batch_position: 4
+  youtube_id: ""
+  key: "D"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Stone Cold Sober Killjoy Blues"
+  slug: stone_cold_sober_killjoy_blues
+  batch: 10
+  batch_position: 5
+  youtube_id: ""
+  key: "E"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Such Is Life"
+  slug: such_is_life
+  batch: 10
+  batch_position: 6
+  youtube_id: ""
+  key: "D"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Take Me With You"
+  slug: take_me_with_you
+  batch: 10
+  batch_position: 7
+  youtube_id: ""
+  key: "AMixo"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "The Sinner"
+  slug: the_sinner
+  batch: 10
+  batch_position: 8
+  youtube_id: ""
+  key: "Bm"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Waiting For The Sun"
+  slug: waiting_for_the_sun
+  batch: 10
+  batch_position: 9
+  youtube_id: ""
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Warmer Winds"
+  slug: warmer_winds
+  batch: 10
+  batch_position: 10
+  youtube_id: ""
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Apartments One To Five"
+  slug: apartments_one_to_five
+  batch: 11
+  batch_position: 1
+  youtube_id: ""
+  key: "Em"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Daisy Chains"
+  slug: daisy_chains
+  batch: 11
+  batch_position: 2
+  youtube_id: ""
+  key: "D"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Here To Stay"
+  slug: here_to_stay
+  batch: 11
+  batch_position: 3
+  youtube_id: ""
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Just About To Fall"
+  slug: just_about_to_fall
+  batch: 11
+  batch_position: 4
+  youtube_id: ""
+  key: "C"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Just Too Good"
+  slug: just_too_good
+  batch: 11
+  batch_position: 5
+  youtube_id: ""
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Notions"
+  slug: notions
+  batch: 11
+  batch_position: 6
+  youtube_id: ""
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Oh Lonesome Me"
+  slug: oh_lonesome_me
+  batch: 11
+  batch_position: 7
+  youtube_id: ""
+  key: "C"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Painted Pony"
+  slug: painted_pony
+  batch: 11
+  batch_position: 8
+  youtube_id: ""
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Roll Your Own"
+  slug: roll_your_own
+  batch: 11
+  batch_position: 9
+  youtube_id: ""
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "So Deep In My Heart"
+  slug: so_deep_in_my_heart
+  batch: 11
+  batch_position: 10
+  youtube_id: ""
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "A Thousand Angels Sing"
+  slug: a_thousand_angels_sing
+  batch: 12
+  batch_position: 1
+  youtube_id: ""
+  key: "Em"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Electric Gate Song"
+  slug: electric_gate_song
+  batch: 12
+  batch_position: 2
+  youtube_id: ""
+  key: "ADor"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Footfall"
+  slug: footfall
+  batch: 12
+  batch_position: 3
+  youtube_id: ""
+  key: "C"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "I Forget"
+  slug: i_forget
+  batch: 12
+  batch_position: 4
+  youtube_id: ""
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "If You Ever Need A Saviour"
+  slug: if_you_ever_need_a_saviour
+  batch: 12
+  batch_position: 5
+  youtube_id: ""
+  key: "A Mixo"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Into Infinity We Will Fall"
+  slug: into_infinity_we_will_fall
+  batch: 12
+  batch_position: 6
+  youtube_id: ""
+  key: "Am"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "It’s Probably Not"
+  slug: its_probably_not
+  batch: 12
+  batch_position: 7
+  youtube_id: ""
+  key: "G"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Sadly In Love With You"
+  slug: sadly_in_love_with_you
+  batch: 12
+  batch_position: 8
+  youtube_id: ""
+  key: "C"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Some Things Just Never Change At All"
+  slug: some_things_just_never_change_at_all
+  batch: 12
+  batch_position: 9
+  youtube_id: ""
+  key: "A"
+  mp3_gdrive_id: ""
+  covers: []
+
+- title: "Much Too Early Morning"
+  slug: much_too_early_morning
+  batch: 12
+  batch_position: 10
+  youtube_id: ""
+  key: "C"
+  mp3_gdrive_id: ""
   covers: []

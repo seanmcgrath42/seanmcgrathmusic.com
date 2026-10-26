@@ -1,6 +1,6 @@
 {title:Sinner Full Of Sins}
 {key:Em}
-{url:https://www.youtube.com/watch?v=mErfdWyUcG4}
+Youtube: https://www.youtube.com/watch?v=mErfdWyUcG4
 
 [Em]Don't touch that bottle don't go out that door
 Don't you even think about [B7]love any more

@@ -1,7 +1,8 @@
 {title:I Will Do The Same}
-{key: E}
-{url:https://www.youtube.com/watch?v=4hAX71y-2qA}
-{comment: C Capo 4->E}
+{key:E}
+Youtube: https://www.youtube.com/watch?v=4hAX71y-2qA
+{comment:C Capo 4->E}
+
 [C]Dump the useless [F]weight of expec[C]tations
 Excrete the last [F]piece of bad ad[C]vice
 Life is for [F]living in this [C]moment

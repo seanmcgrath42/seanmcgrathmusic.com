@@ -1,7 +1,7 @@
 {title:Damn You Delilah}
 {key:D}
-{url:https://www.youtube.com/watch?v=b3SYzrOaqUE}
-{comment: D Capo 2 -> E}
+Youtube: https://www.youtube.com/watch?v=b3SYzrOaqUE
+{comment:D Capo 2 -> E}
 
 [D]They crossed your palm with silver. [Gm]Crossed your palm with gold
 You [D]teased me for my secret. A [Gm]secret never told

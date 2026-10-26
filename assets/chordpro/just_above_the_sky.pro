@@ -1,7 +1,7 @@
 {title:Just Above The Sky}
-{key: E}
-{url:https://www.youtube.com/watch?v=Hy6aW4dWzp0}
-{comment: Capo 4 C -> E}
+{key:E}
+Youtube: https://www.youtube.com/watch?v=Hy6aW4dWzp0
+{comment:Capo 4 C -> E}
 
 
 I [C]made a bed at a [Em]rivers edge and you [F]came to me in a [C]dream

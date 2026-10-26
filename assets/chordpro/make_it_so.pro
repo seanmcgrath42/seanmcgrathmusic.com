@@ -1,6 +1,6 @@
 {title:Make It So}
-{key: Bm}
-{url:https://www.youtube.com/watch?v=CKjg_4nG3Nk}
+{key:Bm}
+Youtube: https://www.youtube.com/watch?v=CKjg_4nG3Nk
 {comment:Am Capo 2->Bm}
 
 [Am]A warm bowl of rice or a cold tin of beans
@@ -11,10 +11,10 @@ A laughing hyena that can sing you the blues
 [E]Tell me what you want and I can make it [Am]so
 
 {soc}
-Tell me[F]what do you really really [C]want to see
+[F]Tell me what do you really really [C]want to see
 What do ya [E]really want to [Am]hear
 [F]I can conjure up most [C]anything
-Or [E]make anything just disappear
+Or make [E]anything just disappear
 {eoc}
 
 A good friend long gone or a new parting glass

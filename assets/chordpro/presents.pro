@@ -1,7 +1,7 @@
 {title:Presents}
-{key: Gm}
-{url:https://www.youtube.com/watch?v=ffHlf3zsVuQ}
-{comment: Em capo 3 -> Gm}
+{key:Gm}
+Youtube: https://www.youtube.com/watch?v=ffHlf3zsVuQ
+{comment:Em capo 3 -> Gm}
 
 I've [Em]painted my [B7]fair share of [Em]black[B7]
 I've [G]painted my [C]fair share of [B7]blue

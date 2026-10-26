@@ -1,7 +1,8 @@
 {title:The Unanswered Question}
 {key:Em}
-{url:https://www.youtube.com/watch?v=P94KjybKdgU}
-[Em]I say 'how are ya?' you say 'please leave me a[C]lone' {comment:c-b-a-e bass walkdown}
+Youtube: https://www.youtube.com/watch?v=P94KjybKdgU
+
+[Em]I say 'how are you?' you say 'please leave me a[C]lone' {comment:c-b-a-e bass walkdown}
 [Em]I say 'what's the matter? Is it something I've [C]done?' {comment:c-b-a-e  walkdown}
 [Am]I put my hands on your [G]shoulders
 [Am]You look me straight in the [G]eye and you ask me [B7]'why'

@@ -1,11 +1,11 @@
 {title:One Good Ear}
-{key: D}
-{url:https://www.youtube.com/watch?v=x17zS6uFMlI}
-{comment: C capo 2 -> D}
+{key:D}
+Youtube: https://www.youtube.com/watch?v=x17zS6uFMlI
+{comment:C capo 2 -> D}
 
-[C]Sit down [E]beside my [Am]one good [F]ear
+[C]Sit down [E7]beside my [Am]one good [F]ear
 And [C]sing me a [F]happy [G]song
-The [C]night is [E]cold and [Am] I taste a [F]tear
+The [C]night is [E7]cold and [Am] I taste a [F]tear
 Oh [C]sing me a [G]happy [C]song
 
 The wind's blown a hole in the roof overhead
@@ -14,9 +14,9 @@ The power is out and my phone is dead
 Oh sing me a happy song
  	
 {soc}
-Oh [C]sing me a [E]happy [Am]song why [F]don't ya?
+Oh [C]sing me a [E7]happy [Am]song why [F]don't ya?
 Oh [C]sing me a [F]happy [G]song
-The [C]room is [E]dark and the [Am]night is [F]long
+The [C]room is [E7]dark and the [Am]night is [F]long
 Oh [C]sing me a [G]happy [C]song
 {eoc}
 

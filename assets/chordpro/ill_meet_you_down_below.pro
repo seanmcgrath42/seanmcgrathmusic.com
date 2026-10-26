@@ -1,9 +1,9 @@
 {title:I'll Meet You Down Below}
-{key: C#}
-{url:https://www.youtube.com/watch?v=-DfKgdhfj9U}
-{comment: Capo 1 C -> C#}
+{key:C#}
+Youtube: https://www.youtube.com/watch?v=-DfKgdhfj9U
+{comment:Capo 1 C -> C#}
 
-Well I'll [G7]meet you down [C]below we can [G]share a tale or [C]two
+Well I'll [G7]meet you down [C]below we can [G7]share a tale or [C]two
 Of [G]who and what and [F]how and why and [C]when
 And [G7]I will tell you [C]mine if [G]you will tell me [C]yours
 [G]Unless your God's forgiven [F]you by [C]then

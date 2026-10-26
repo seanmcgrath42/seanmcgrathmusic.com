@@ -1,18 +1,19 @@
 {title:I Will Arise And I Will Go}
-{key:Dm}
-{url:https://www.youtube.com/watch?v=wRiUh0Sp2MY}
-[Dm]So long to your sharpened tongue
-[Gm]Goodbye to your one good lung
-[Dm]Farewell to the jaundice in your [A7]eyes
-[Dm]Hasta la vista to ya baby
-[Gm]See you someday. Some day maybe
-[Dm]Some day baby  [A7] you will real[Dm]ize 
+{key:Em}
+Youtube: https://www.youtube.com/watch?v=wRiUh0Sp2MY
+
+[Em]So long to your sharpened tongue
+[Am]Goodbye to your one good lung
+[Em]Farewell to the jaundice in your [B7]eyes
+[Em]Hasta la vista to ya baby
+[Am]See you someday. Some day maybe
+[Em]Some day baby  [B7] you will real[Em]ize 
 
 {soc}
-You have no [C]bridges left to burn no [Dm]goodwill left to blow
-No [C]sympathy to cultivate no [Dm]empathy to grow
-Now I [C]will a[Bb]rise and I will [A]go
-Now [C]I will a[Bb]rise and I will [A7]go
+You have no [D]bridges left to burn no [Em]goodwill left to blow
+No [D]sympathy to cultivate no [Em]empathy to grow
+Now I [D]will a[C]rise and I will [B]go
+Now [D]I will a[C]rise and I will [B7]go
 {eoc}
 
 So long to all the bated breath

@@ -1,7 +1,7 @@
 {title:The Best Way To Love}
-{key: Cm}
-{url:https://www.youtube.com/watch?v=WD7Jb4tJn6E}
-{comment: Capo 3 Am -> Cm}
+{key:Cm}
+Youtube: https://www.youtube.com/watch?v=WD7Jb4tJn6E
+{comment:Capo 3 Am -> Cm}
 
 [Dm]Take away these trees please for I [Am]cannot see the forest
 I don't [E7]know how to lose myself in [Am]here

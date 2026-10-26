@@ -1,7 +1,8 @@
 {title:Six White Horses}
-{key: A}
-{url:https://www.youtube.com/watch?v=roTNMlWg0Uc}
+{key:A}
+Youtube: https://www.youtube.com/watch?v=roTNMlWg0Uc
 {comment:G Capo 2->A}
+
 [G]I will wake up [C]with the [G]sun
 Paint a smile on the face of [C]every[G]one
 Look out on a [C]field of [G]grass

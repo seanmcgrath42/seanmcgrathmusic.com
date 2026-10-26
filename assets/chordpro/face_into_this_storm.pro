@@ -1,6 +1,6 @@
 {title:Face Into This Storm}
-{key: Bb}
-{url:https://www.youtube.com/watch?v=RfbpA2as8MU}
+{key:Bb}
+Youtube: https://www.youtube.com/watch?v=RfbpA2as8MU
 {comment:G Capo 3 -> Bb}
 
 The [G]swallows are getting out
@@ -43,7 +43,7 @@ It forms when zero fails to take a hold
 I’m so very glad we met
 Our joys are far from over yet 
 
-{comment:Outro]
+{comment:Outro}
 I’ll face into this storm with you
 I’ll face into this storm with you
 I’ll face into this storm with you

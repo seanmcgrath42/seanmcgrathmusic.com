@@ -1,7 +1,7 @@
 {title:Nothing Much Left For Us To Do}
-{key: Eb}
-{url:https://www.youtube.com/watch?v=ARSyddhd_v4}
-{comment: C Capo 3 -> Eb}
+{key:Eb}
+Youtube: https://www.youtube.com/watch?v=ARSyddhd_v4
+{comment:C Capo 3 -> Eb}
 
 We [C]started out so sweetly like two peas in a pod
 Like two [F]ice cubes swirling around inside a [G]glass

@@ -1,6 +1,6 @@
 {title:Two Fireflies Burning Bright}
 {key:D}
-{url:https://www.youtube.com/watch?v=T6kxOZzMw_c}
+Youtube: https://www.youtube.com/watch?v=T6kxOZzMw_c
 {comment:C Capo 2 -> D}
 
 The [C]fireflies are [Em]lighting the [F]forest to[G]night
