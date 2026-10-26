@@ -15,7 +15,7 @@ title: Songs
 <!-- BATCH VIEW -->
 <div id="view-batch" class="view active">
   {% assign sorted = site.data.songs | sort: "batch_position" | sort: "batch" %}
-  {% for batch_num in (1..9) %}
+  {% for batch_num in (1..12) %}
     {% assign batch_songs = sorted | where: "batch", batch_num %}
     {% if batch_songs.size > 0 %}
     <div class="batch-group" id="batch-{{ batch_num }}">
